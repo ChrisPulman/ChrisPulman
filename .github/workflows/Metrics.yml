@@ -6,9 +6,7 @@ on:
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
-permissions: |
-  read-all
-  write-all
+permissions: write-all
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
