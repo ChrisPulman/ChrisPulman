@@ -17,7 +17,7 @@ jobs:
           filename: metrics_left.svg
           user: ChrisPulman
           template: classic
-          base: header, repositories
+          base: header, activity, community, repositories
           config_timezone: Europe/London
           plugin_languages: yes
           plugin_languages_details: lines, bytes-size, percentage
@@ -40,7 +40,12 @@ jobs:
           config_timezone: Europe/London
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 28
           plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 10
+          plugin_lines_sections: base
