@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@v3.34.0-beta
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -31,7 +31,7 @@ jobs:
           config_timezone: Europe/London
           plugin_introduction: yes
           plugin_introduction_title: yes
-      - uses: lowlighter/metrics@v3.34.0-beta
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_right.svg
