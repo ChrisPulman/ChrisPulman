@@ -178,4 +178,11 @@
     <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ServiceInstaller">
   </picture>
 </a>
+<a href="https://github.com/ChrisPulman/AnimationRx">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AnimationRx&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AnimationRx">
+    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AnimationRx">
+  </picture>
+</a>
 <br clear="both"/>
