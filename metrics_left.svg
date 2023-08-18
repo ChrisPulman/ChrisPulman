@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1678" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="795" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors .avatar{margin:2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -88,7 +88,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            687 Pull requests reviewed
+                            690 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            601 issue comments
+                            602 issue comments
                         </div>
                     </section>
                     <section>
@@ -268,282 +268,12 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 12 commits in
-                                        <span class="repo">ChrisPulman/nuke</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#fa0fe70</div>
-                                        <div class="message">fix(execution): add Executes overload to handle Func&lt;Task&lt;T&gt;&gt; (#1216)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d1f39c</div>
-                                        <div class="message">fix(tools): missing OctopusTasks arguments (#1222)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c352b6e</div>
-                                        <div class="message">fix(tools): missing Unity test framework support (#1194)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33ea8ec</div>
-                                        <div class="message">fix(source-generator): error reporting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#797a073</div>
-                                        <div class="message">fix(source-generator): handling of relativePath arguments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1a7d34</div>
-                                        <div class="message">fix(tools): missing UnityBuildTarget values (#1195)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#510ddc8</div>
-                                        <div class="message">fix(templates): suppress common build warnings (#1214)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90f2138</div>
-                                        <div class="message">fix(bootstrapping): check for NUKE_ENTERPRISE_TOKEN variable (#1221)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d01b148</div>
-                                        <div class="message">fix(docs): remove extension marketplace links</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e4f555b</div>
-                                        <div class="message">chore: update sponsors</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#80f24c5</div>
-                                        <div class="message">fix(docs): AsciinemaPlayer and DOM</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42409f9</div>
-                                        <div class="message">feat(components): make ICreateGitHubRelease to fallback to existing release for distributed asset uploads</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 108 commits in
-                                        <span class="repo">ChrisPulman/Avalonia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#99f1225</div>
-                                        <div class="message">Prevent NRE</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a54163f</div>
-                                        <div class="message">select current composing region if active when commiting and ensure selection is set when surrounding text changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#904b8ae</div>
-                                        <div class="message">Merge pull request #12262 from AvaloniaUI/dependabot/npm_and_yarn/src/Browser/Avalonia.Browser/webapp/word-wrap-1.2.4
-
-Bump word-wrap from 1.2.3 to 1.2.4 in /src/Browser/Avalonia.Browser/webapp</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#571f69f</div>
-                                        <div class="message">Bump word-wrap in /src/Browser/Avalonia.Browser/webapp
-
-Bumps [word-wrap](https://github.com/jonschlinkert/word-wrap) from 1.2.3 to 1.2.4.
-- [Release notes](https://github.com/jonschlinkert/word-wrap/releases)
-- [Commits](https://github.com/jonschlinkert/word-wrap/compare/1.2.3...1.2.4)
-
----
-updated-dependencies:
-- dependency-name: word-wrap
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fde8744</div>
-                                        <div class="message">delete selection when committext has null text</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6e4ec98</div>
-                                        <div class="message">Merge branch 'master' into fixes/window-border-resize</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1206996</div>
-                                        <div class="message">disable resize for None decorations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ee76fa</div>
-                                        <div class="message">fix no border resize issue</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f762be4</div>
-                                        <div class="message">only handle deletion in surrounding text on the client side</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24e2321</div>
-                                        <div class="message">android - use batch edits to defer updates to input manager</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2b823fe</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/master' into android-text</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#117ea16</div>
-                                        <div class="message">remove redundant selection update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#368de7e</div>
-                                        <div class="message">clean up; apply only changed text to editable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0078003</div>
-                                        <div class="message">typo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3fc0d19</div>
-                                        <div class="message">Moved detailsContent.DataContext assignation before Children.Add</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#35be25e</div>
-                                        <div class="message">typo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#abc7eea</div>
-                                        <div class="message">simplifies the first test</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22ef68e</div>
-                                        <div class="message">Fixed issue where RowDetailsTemplate was getting the wrong DataContext</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7a584e</div>
-                                        <div class="message">Return true when first presenter register and fix logical children duplicated</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#add676e</div>
-                                        <div class="message">Add failing tests</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 37 commits in
-                                        <span class="repo">ChrisPulman/LiveCharts2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#31b43f0</div>
-                                        <div class="message">uset set property instead</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3ebf859</div>
-                                        <div class="message">Merge branch 'dev' into update-gauges</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c821582</div>
-                                        <div class="message">restore things</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81fc3f2</div>
-                                        <div class="message">use set value instead, fixes #1054</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ed1024</div>
-                                        <div class="message">fixes #1157</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#32ad08b</div>
-                                        <div class="message">add test to prevent #1147 again</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b7b3db6</div>
-                                        <div class="message">fiex #907</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fc476ba</div>
-                                        <div class="message">pie chart start property</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03444dd</div>
-                                        <div class="message">better use outerradiusoffset</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24a7039</div>
-                                        <div class="message">intro to agnuar gauge</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#804d88c</div>
-                                        <div class="message">add pie isfristdraw</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d799b5f</div>
-                                        <div class="message">update sample</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e465f8</div>
-                                        <div class="message">prevent null paints</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c1db34d</div>
-                                        <div class="message">update samples</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a6d798</div>
-                                        <div class="message">make gauge builder obsolete</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74671ac</div>
-                                        <div class="message">improve gauge generator background</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ac23e9</div>
-                                        <div class="message">add ns to tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a6070b</div>
-                                        <div class="message">improve gauge builder</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ea3921</div>
-                                        <div class="message">add iinternal series interface</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fed6c0a</div>
-                                        <div class="message">better use extensions instaed of the gauge builder</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">dependabot/nuget/src/xunit.runner.console-2.5.0</span>
+                                        <span class="code">dependabot/nuget/src/DiffEngine-12.2.0</span>
                                         in
                                         <span class="repo">reactiveui/punchclock</span>
                                     </div>
@@ -564,15 +294,66 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#75fc8dc</div>
-                                        <div class="message">chore(deps): bump xunit.runner.console from 2.4.2 to 2.5.0 in /src (#274)
+                                        <div class="sha">#f0f2d20</div>
+                                        <div class="message">chore(deps): bump DiffEngine from 11.4.1 to 12.2.0 in /src (#276)
 
-Bumps [xunit.runner.console](https://github.com/xunit/xunit) from 2.4.2 to 2.5.0.
-- [Commits](https://github.com/xunit/xunit/compare/2.4.2...2.5.0)
+Bumps [DiffEngine](https://github.com/VerifyTests/DiffEngine) from 11.4.1 to 12.2.0.
+- [Release notes](https://github.com/VerifyTests/DiffEngine/releases)
+- [Commits](https://github.com/VerifyTests/DiffEngine/commits/12.2.0)
 
 ---
 updated-dependencies:
-- dependency-name: xunit.runner.console
+- dependency-name: DiffEngine
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">dependabot/nuget/src/Verify.Xunit-20.7.0</span>
+                                        in
+                                        <span class="repo">reactiveui/Fusillade</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">reactiveui/Fusillade</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#91f6696</div>
+                                        <div class="message">build(deps): bump Verify.Xunit from 20.4.0 to 20.7.0 in /src (#328)
+
+Bumps [Verify.Xunit](https://github.com/VerifyTests/Verify) from 20.4.0 to 20.7.0.
+- [Release notes](https://github.com/VerifyTests/Verify/releases)
+- [Commits](https://github.com/VerifyTests/Verify/compare/20.4.0...20.7.0)
+
+---
+updated-dependencies:
+- dependency-name: Verify.Xunit
   dependency-type: direct:production
   update-type: version-update:semver-minor
 ...
@@ -583,12 +364,28 @@ Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.githu
                                 </div>
                             </section>
                         </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">CP_AddCodeSuppresionsToTemplateProject</span>
+                                        in
+                                        <span class="repo">ChrisPulman/nuke</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2023, 02:02:50 (timezone Europe/London) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 18 Aug 2023, 02:03:42 (timezone Europe/London) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
