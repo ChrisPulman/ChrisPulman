@@ -39,46 +39,11 @@
 
 ## Repositories
 ### MQTTNet libraries
-<a href="https://github.com/ChrisPulman/MQTTnet.Rx.ManagedClient">
+<a href="https://github.com/ChrisPulman/MQTTnet.Rx">  
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.ManagedClient&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.ManagedClient">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.ManagedClient">
-  </picture>
-</a>
-<a href="https://github.com/ChrisPulman/MQTTnet.Rx.TwinCAT">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.TwinCAT&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.TwinCAT">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.TwinCAT">
-  </picture>
-</a>
-<a href="https://github.com/ChrisPulman/MQTTnet.Rx.ABPlc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.ABPlc&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.ABPlc">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.ABPlc">
-  </picture>
-</a>
-<a href="https://github.com/ChrisPulman/MQTTnet.Rx.Modbus">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.Modbus&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.Modbus">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.Modbus">
-  </picture>
-</a>
-<a href="https://github.com/ChrisPulman/MQTTnet.Rx.SerialPort">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.SerialPort&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.SerialPort">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.SerialPort">
-  </picture>
-</a>
-<a href="https://github.com/ChrisPulman/MQTTnet.Rx.S7Plc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.S7Plc&theme=react">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.S7Plc">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.S7Plc">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx&theme=react">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx">
+    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/MQTTnet.Rx.Mitsubishi-">
