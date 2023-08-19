@@ -150,4 +150,11 @@
     <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AnimationRx">
   </picture>
 </a>
+<a href="https://github.com/ChrisPulman/CP.Extensions.Hosting">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting">
+    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting">
+  </picture>
+</a>
 <br clear="both"/>
