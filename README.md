@@ -43,14 +43,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx&theme=react">
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/MQTTnet.Rx.Mitsubishi-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.Mitsubishi-&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.Mitsubishi-">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.Mitsubishi-">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MQTTnet.Rx.Mitsubishi-">
   </picture>
 </a>
 <br clear="both"/>
@@ -60,42 +60,42 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=S7PlcRx&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=S7PlcRx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=S7PlcRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=S7PlcRx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/ABPlcRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ABPlcRx&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ABPlcRx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ABPlcRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ABPlcRx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/ModbusRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ModbusRx&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ModbusRx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ModbusRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ModbusRx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/TwinCATRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=TwinCATRx&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=TwinCATRx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=TwinCATRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=TwinCATRx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/MitsubishiRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MitsubishiRx&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MitsubishiRx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MitsubishiRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MitsubishiRx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/SerialPortRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=SerialPortRx&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=SerialPortRx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=SerialPortRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=SerialPortRx">
   </picture>
 </a>
 <br clear="both"/>
@@ -105,56 +105,56 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CrissCross&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CrissCross">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CrissCross">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CrissCross">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/Localisation.WPF">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Localisation.WPF&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Localisation.WPF">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Localisation.WPF">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Localisation.WPF">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/AppBarButton.WPF">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AppBarButton.WPF&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AppBarButton.WPF">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AppBarButton.WPF">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AppBarButton.WPF">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/BBCode.WPF">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=BBCode.WPF&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=BBCode.WPF">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=BBCode.WPF">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=BBCode.WPF">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/HashTableRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=HashTableRx&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=HashTableRx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=HashTableRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=HashTableRx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/ServiceInstaller">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ServiceInstaller&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ServiceInstaller">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ServiceInstaller">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ServiceInstaller">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/AnimationRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AnimationRx&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AnimationRx">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AnimationRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=AnimationRx">
   </picture>
 </a>
 <a href="https://github.com/ChrisPulman/CP.Extensions.Hosting">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting">
-    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting">
   </picture>
 </a>
 <br clear="both"/>
