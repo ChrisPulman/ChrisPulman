@@ -100,7 +100,7 @@
 </a>
 <br clear="both"/>
 
-### WPF Usercontrol / Helper libraries
+### UI Usercontrols / Helper libraries
 <a href="https://github.com/ChrisPulman/CrissCross">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CrissCross&theme=react">
@@ -155,6 +155,13 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting&theme=react">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting">
     <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Extensions.Hosting">
+  </picture>
+</a>
+<a href="https://github.com/ChrisPulman/Spectre.Console.Rx">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Spectre.Console.Rx&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Spectre.Console.Rx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Spectre.Console.Rx">
   </picture>
 </a>
 <br clear="both"/>
