@@ -129,6 +129,13 @@
     <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=BBCode.WPF">
   </picture>
 </a>
+<a href="https://github.com/ChrisPulman/XamlLEDControl">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=XamlLEDControl&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=XamlLEDControl">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=XamlLEDControl">
+  </picture>
+</a>
 <a href="https://github.com/ChrisPulman/HashTableRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=HashTableRx&theme=react">
