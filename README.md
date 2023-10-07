@@ -143,6 +143,13 @@
     <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=HashTableRx">
   </picture>
 </a>
+<a href="https://github.com/ChrisPulman/ReactiveList">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ReactiveList&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ReactiveList">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ReactiveList">
+  </picture>
+</a>
 <a href="https://github.com/ChrisPulman/ServiceInstaller">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=ServiceInstaller&theme=react">
