@@ -101,6 +101,20 @@
 <br clear="both"/>
 
 ### UI Usercontrols / Helper libraries
+<a href="https://github.com/reactiveui/reactiveui">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=reactiveui&repo=reactiveui&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=reactiveui&repo=reactiveui">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=reactiveui&repo=reactiveui">
+  </picture>
+</a>
+<a href="https://github.com/reactivemarbles/CacheDatabase">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=reactivemarbles&repo=CacheDatabase&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=reactivemarbles&repo=CacheDatabase">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=reactivemarbles&repo=CacheDatabase">
+  </picture>
+</a>
 <a href="https://github.com/ChrisPulman/CrissCross">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CrissCross&theme=react">
@@ -179,3 +193,33 @@
   </picture>
 </a>
 <br clear="both"/>
+
+## CP.Extensions.Hosting
+#### CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite)
+#### CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer)
+#### CP.Extensions.Hosting.MainUIThread ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.MainUIThread) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.MainUIThread)
+#### CP.Extensions.Hosting.Plugins ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Plugins) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Plugins)
+#### CP.Extensions.Hosting.PluginService ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.PluginService) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.PluginService)
+#### CP.Extensions.Hosting.ReactiveUI.WinForms ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.WinForms) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.WinForms)
+#### CP.Extensions.Hosting.ReactiveUI.WinUI ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.WinUI) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.WinUI)
+#### CP.Extensions.Hosting.ReactiveUI.Wpf ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.Wpf) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.Wpf)
+#### CP.Extensions.Hosting.SingleInstance ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.SingleInstance) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.SingleInstance)
+#### CP.Extensions.Hosting.WinForms ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.WinForms) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.WinForms)
+#### CP.Extensions.Hosting.WinUI ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.WinUI) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.WinUI)
+#### CP.Extensions.Hosting.Wpf ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Wpf) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Wpf)
+
+## CrissCross
+#### CrissCross ![Nuget](https://img.shields.io/nuget/v/CrissCross) ![Nuget](https://img.shields.io/nuget/dt/CrissCross)
+#### CrissCross.WPF ![Nuget](https://img.shields.io/nuget/v/CrissCross.WPF) ![Nuget](https://img.shields.io/nuget/dt/CrissCross.WPF)
+#### CrissCross.XamForms ![Nuget](https://img.shields.io/nuget/v/CrissCross.XamForms) ![Nuget](https://img.shields.io/nuget/dt/CrissCross.XamForms)
+#### CrissCross.MAUI ![Nuget](https://img.shields.io/nuget/v/CrissCross.MAUI) ![Nuget](https://img.shields.io/nuget/dt/CrissCross.MAUI)
+#### CrissCross.Avalonia ![Nuget](https://img.shields.io/nuget/v/CrissCross.Avalonia) ![Nuget](https://img.shields.io/nuget/dt/CrissCross.Avalonia)
+#### CrissCross.WinForms ![Nuget](https://img.shields.io/nuget/v/CrissCross.WinForms) ![Nuget](https://img.shields.io/nuget/dt/CrissCross.WinForms)
+
+## MQTTnet.Rx
+#### MQTTnet.Rx.ManagedClient ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.Client) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.Client)
+#### MQTTnet.Rx.ABPlc ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.ABPlc) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.ABPlc)
+#### MQTTnet.Rx.Modbus ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.Modbus) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.Modbus)
+#### MQTTnet.Rx.S7Plc ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.S7Plc) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.S7Plc)
+#### MQTTnet.Rx.SerialPort ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.SerialPort) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.SerialPort)
+#### MQTTnet.Rx.TwinCAT ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.TwinCAT) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.TwinCAT)
