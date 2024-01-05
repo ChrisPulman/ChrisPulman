@@ -192,6 +192,27 @@
     <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Spectre.Console.Rx">
   </picture>
 </a>
+<a href="https://github.com/ChrisPulman/CP.Nuke.BuildTools">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Nuke.BuildTools&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Nuke.BuildTools">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=CP.Nuke.BuildTools">
+  </picture>
+</a>
+<a href="https://github.com/ChrisPulman/VS.Squirrel">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=VS.Squirrel&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=VS.Squirrel">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=VS.Squirrel">
+  </picture>
+</a>
+<a href="https://github.com/ChrisPulman/Clowd.Squirrel.UI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Clowd.Squirrel.UI&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Clowd.Squirrel.UI">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=Clowd.Squirrel.UI">
+  </picture>
+</a>
 <br clear="both"/>
 
 ## CP.Extensions.Hosting
