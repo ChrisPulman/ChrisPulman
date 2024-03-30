@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="813" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="845" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,27 +23,27 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 41 users
+                            Followed by 42 users
                         </div>
                     </section>
                     <section>
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,19 +82,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2143 Commits
+                            2146 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            1553 Pull requests reviewed
+                            1556 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            340 Pull requests opened
+                            341 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -172,7 +172,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    154 Releases
+                                    155 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,7 +184,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    616 MB used
+                                    617 MB used
                                 </div>
                             </section>
                             <section>
@@ -264,444 +264,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">reactiveui/ReactiveUI</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ddd533e</div>
-                                        <div class="message">chore(deps): update dependency dynamicdata to v8.3.93 (#3780)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [DynamicData](http://dynamic-data.org/)
-([source](https://togithub.com/reactiveui/DynamicData)) | `8.3.27` -&gt;
-`8.3.93` |
-[![age](https://developer.mend.io/api/mc/badges/age/nuget/DynamicData/8.3.93?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/DynamicData/8.3.93?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/DynamicData/8.3.27/8.3.93?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/DynamicData/8.3.27/8.3.93?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;reactiveui/DynamicData (DynamicData)&lt;/summary&gt;
-
-###
-[`v8.3.93`](https://togithub.com/reactivemarbles/DynamicData/releases/tag/8.3.93)
-
-[Compare
-Source](https://togithub.com/reactiveui/DynamicData/compare/8.3.27...8.3.93)
-
-#### Bug Fixes:
-
--
-[`42d0bda`](https://togithub.com/reactiveui/DynamicData/commit/42d0bdafa22282210f728d273d17a7f94f394f57)
-Bug Fix: Synchronization Issues in MergeManyChangeSet operators
-([#&amp;#8203;808](https://togithub.com/reactiveui/DynamicData/issues/808))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`1e0e11b`](https://togithub.com/reactiveui/DynamicData/commit/1e0e11b73ef1daa6b6ead741bdd5ba80b4089f69)
-Bug Fix: Consolidate changes made to Group Caches into a single
-ChangeSet
-([#&amp;#8203;863](https://togithub.com/reactiveui/DynamicData/issues/863))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
-
-#### Dependencies:
-
--
-[`bb0dcaf`](https://togithub.com/reactiveui/DynamicData/commit/bb0dcaf52faecbbad585d92a05fd927db985fd37)
-build(deps): bump xunit.runner.visualstudio from 2.5.4 to 2.5.5 in /src
-([#&amp;#8203;793](https://togithub.com/reactiveui/DynamicData/issues/793))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`911f339`](https://togithub.com/reactiveui/DynamicData/commit/911f339a1179d045f8032fa1b62572273f287353)
-build(deps): bump XunitVersion from 2.6.2 to 2.6.3 in /src
-([#&amp;#8203;794](https://togithub.com/reactiveui/DynamicData/issues/794))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`fb6113b`](https://togithub.com/reactiveui/DynamicData/commit/fb6113b90ef0354b89c77a25c683cb75a7f2b716)
-build(deps): bump PublicApiGenerator from 11.0.0 to 11.1.0 in /src
-([#&amp;#8203;792](https://togithub.com/reactiveui/DynamicData/issues/792))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`1a18cd7`](https://togithub.com/reactiveui/DynamicData/commit/1a18cd74087b6cac3e28880766f045cbfa1cdee6)
-build(deps): bump Verify.Xunit from 22.5.0 to 22.8.0 in /src
-([#&amp;#8203;791](https://togithub.com/reactiveui/DynamicData/issues/791))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`b751846`](https://togithub.com/reactiveui/DynamicData/commit/b7518469dd0be4b3e5967b19e996929b9ba789e1)
-build(deps): bump Bogus from 34.0.2 to 35.0.1 in /src
-([#&amp;#8203;804](https://togithub.com/reactiveui/DynamicData/issues/804))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`e1fee33`](https://togithub.com/reactiveui/DynamicData/commit/e1fee33233574157917af049759c39bff6091ede)
-build(deps): bump stylecop.analyzers from 1.2.0-beta.507 to
-1.2.0-beta.556 in /src
-([#&amp;#8203;810](https://togithub.com/reactiveui/DynamicData/issues/810))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`8bcbebb`](https://togithub.com/reactiveui/DynamicData/commit/8bcbebbc508e0c165e6c0c312a03699664454afc)
-build(deps): bump XunitVersion from 2.6.3 to 2.6.4 in /src
-([#&amp;#8203;811](https://togithub.com/reactiveui/DynamicData/issues/811))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`51e69cb`](https://togithub.com/reactiveui/DynamicData/commit/51e69cb06d1b891411abce05b7683f4a192938c6)
-build(deps): bump xunit.runner.visualstudio from 2.5.5 to 2.5.6 in /src
-([#&amp;#8203;812](https://togithub.com/reactiveui/DynamicData/issues/812))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`c31b570`](https://togithub.com/reactiveui/DynamicData/commit/c31b5700dffdcb9bfd043a295bc29c4e17ae50f4)
-build(deps): bump Verify.Xunit from 22.8.0 to 22.11.1 in /src
-([#&amp;#8203;814](https://togithub.com/reactiveui/DynamicData/issues/814))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`060aa12`](https://togithub.com/reactiveui/DynamicData/commit/060aa121cf07b67f4325f99cf2b7bb6891d47ae7)
-build(deps): bump Bogus from 35.0.1 to 35.2.0 in /src
-([#&amp;#8203;816](https://togithub.com/reactiveui/DynamicData/issues/816))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`73c10ba`](https://togithub.com/reactiveui/DynamicData/commit/73c10ba32c6deb582029f88bb3b3ebaf3df9e911)
-build(deps): bump Roslynator.Analyzers from 4.7.0 to 4.8.0 in /src
-([#&amp;#8203;827](https://togithub.com/reactiveui/DynamicData/issues/827))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`1712679`](https://togithub.com/reactiveui/DynamicData/commit/171267939a83ca9d593da961e0f94ab45a9749b4)
-build(deps): bump XunitVersion from 2.6.4 to 2.6.5 in /src
-([#&amp;#8203;825](https://togithub.com/reactiveui/DynamicData/issues/825))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`0d1b41f`](https://togithub.com/reactiveui/DynamicData/commit/0d1b41f02d3590842726e3f3f2a9657d8440eef4)
-build(deps): bump Bogus from 35.2.0 to 35.3.0 in /src
-([#&amp;#8203;826](https://togithub.com/reactiveui/DynamicData/issues/826))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`3c889f6`](https://togithub.com/reactiveui/DynamicData/commit/3c889f69e2e6261cf2b9605ff358ee70cf219573)
-build(deps): bump Verify.Xunit from 22.11.1 to 22.11.4 in /src
-([#&amp;#8203;828](https://togithub.com/reactiveui/DynamicData/issues/828))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`88de893`](https://togithub.com/reactiveui/DynamicData/commit/88de893e4057ebcab7a2fc68ba9f757ca8347f61)
-build(deps): bump Roslynator.Analyzers from 4.8.0 to 4.9.0 in /src
-([#&amp;#8203;832](https://togithub.com/reactiveui/DynamicData/issues/832))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`7a048fb`](https://togithub.com/reactiveui/DynamicData/commit/7a048fb7a93fe4ea8aff75221b086f865bda56e7)
-build(deps): bump Verify.Xunit from 22.11.4 to 22.11.5 in /src
-([#&amp;#8203;833](https://togithub.com/reactiveui/DynamicData/issues/833))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`b1a2d4f`](https://togithub.com/reactiveui/DynamicData/commit/b1a2d4f361fc57dafdaa768ebbb789e9f411c626)
-build(deps): bump XunitVersion from 2.6.5 to 2.6.6 in /src
-([#&amp;#8203;831](https://togithub.com/reactiveui/DynamicData/issues/831))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`215eb33`](https://togithub.com/reactiveui/DynamicData/commit/215eb335b16c9ff206cc17065b5bfc07c14fd4c2)
-build(deps): bump Bogus from 35.3.0 to 35.4.0 in /src
-([#&amp;#8203;830](https://togithub.com/reactiveui/DynamicData/issues/830))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`3fd9ed9`](https://togithub.com/reactiveui/DynamicData/commit/3fd9ed955afb8f997d224c3162274b956ae65b04)
-build(deps): bump Microsoft.NET.Test.Sdk from 17.8.0 to 17.9.0 in /src
-([#&amp;#8203;850](https://togithub.com/reactiveui/DynamicData/issues/850))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`ee002c6`](https://togithub.com/reactiveui/DynamicData/commit/ee002c6f1c3f965e863da235fc54fc29a071e0b3)
-build(deps): bump actions/cache from 3 to 4
-([#&amp;#8203;835](https://togithub.com/reactiveui/DynamicData/issues/835))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
--
-[`71c76e5`](https://togithub.com/reactiveui/DynamicData/commit/71c76e5d3c1745d008075faf7a8164dc5ddd467d)
-build(deps): bump Roslynator.Analyzers from 4.9.0 to 4.10.0 in /src
-([#&amp;#8203;838](https://togithub.com/reactiveui/DynamicData/issues/838))
-[@&amp;#8203;dependabot](https://togithub.com/dependabot)\[bot]
-
-#### Features:
-
--
-[`32ce42b`](https://togithub.com/reactiveui/DynamicData/commit/32ce42bcc31432354123b3aefc586d4b8fc11af0)
-Feature: MergeManyChangeSets for Cache ChangeSets with List ChangeSets
-([#&amp;#8203;790](https://togithub.com/reactiveui/DynamicData/issues/790))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`d8c3ac6`](https://togithub.com/reactiveui/DynamicData/commit/d8c3ac6c434276a878a32a019106378123f8b5b7)
-Feature: Support DebugSpy in Release Builds
-([#&amp;#8203;798](https://togithub.com/reactiveui/DynamicData/issues/798))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`5748318`](https://togithub.com/reactiveui/DynamicData/commit/57483187656e4241c9aae7b15ec2996cbc99c19d)
-Feature: Stress Tests for Cache-to-Cache MergeManyChangeSets
-([#&amp;#8203;802](https://togithub.com/reactiveui/DynamicData/issues/802))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`56eda45`](https://togithub.com/reactiveui/DynamicData/commit/56eda4522ff2b498514133cfe6dd470066aedd88)
-Feature: MergeChangeSets for List ChangeSets
-([#&amp;#8203;805](https://togithub.com/reactiveui/DynamicData/issues/805))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`b605a18`](https://togithub.com/reactiveui/DynamicData/commit/b605a18ea5b94e8c55e9a83f72178232b5b101cc)
-Feature: Multithread Stress Test for Parent Compare version of
-Cache-to-Cache MergeManyChangeSets
-([#&amp;#8203;807](https://togithub.com/reactiveui/DynamicData/issues/807))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`4ffeec0`](https://togithub.com/reactiveui/DynamicData/commit/4ffeec06a7a99bc581118307297e2689fe361132)
-Feature: Multithreaded Stress Test for List-to-Cache MergeManyChangeSets
-([#&amp;#8203;806](https://togithub.com/reactiveui/DynamicData/issues/806))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`7585ae0`](https://togithub.com/reactiveui/DynamicData/commit/7585ae084d6d99ee86f98579c0d772ac696f8001)
-Feature: Improve Performance of MergeManyChangeSets with fewer
-changesets
-([#&amp;#8203;829](https://togithub.com/reactiveui/DynamicData/issues/829))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`dac44e1`](https://togithub.com/reactiveui/DynamicData/commit/dac44e15142c762a0505759051b2d8530e36ee83)
-Feature: TransformMany Async
-([#&amp;#8203;824](https://togithub.com/reactiveui/DynamicData/issues/824))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`38c6a38`](https://togithub.com/reactiveui/DynamicData/commit/38c6a38d23bac41451f7ab0dcf361b6fbe7ac190)
-Feature: TransformOnObservable Operator for SourceCache
-([#&amp;#8203;841](https://togithub.com/reactiveui/DynamicData/issues/841))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`d6d748e`](https://togithub.com/reactiveui/DynamicData/commit/d6d748e2a76c9facf92f016a141078537e11d413)
-Feature/stateless filtering and transforming
-([#&amp;#8203;823](https://togithub.com/reactiveui/DynamicData/issues/823))
-[@&amp;#8203;JakenVeina](https://togithub.com/JakenVeina)
--
-[`fb86420`](https://togithub.com/reactiveui/DynamicData/commit/fb864201e5ca52e605650a55c13b2d8dbf5172c5)
-Feature: Leverage TransformImmutable
-([#&amp;#8203;845](https://togithub.com/reactiveui/DynamicData/issues/845))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`5bf069d`](https://togithub.com/reactiveui/DynamicData/commit/5bf069dee4e87e79fbab6fccf2e6c5d59b8a2f88)
-Feature: Use Flag instead of Counter for
-TransformManyAsync/TransformOnObservable
-([#&amp;#8203;844](https://togithub.com/reactiveui/DynamicData/issues/844))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`04e2ff8`](https://togithub.com/reactiveui/DynamicData/commit/04e2ff8aebd0dd081bd4a39cb3af5651438f6ea7)
-Feature: GroupOnObservable Operator
-([#&amp;#8203;847](https://togithub.com/reactiveui/DynamicData/issues/847))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`9b09d9c`](https://togithub.com/reactiveui/DynamicData/commit/9b09d9ce75be1990d22f2b96ae5b9c4ad9f18412)
-Feature: Group by Dynamic Selector Function
-([#&amp;#8203;849](https://togithub.com/reactiveui/DynamicData/issues/849))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`9f1e2e2`](https://togithub.com/reactiveui/DynamicData/commit/9f1e2e21cba9c8c8f777f6ae53a89e14a21411f8)
-feature: Add renovate package management
-[@&amp;#8203;glennawatson](https://togithub.com/glennawatson)
--
-[`f92a7f4`](https://togithub.com/reactiveui/DynamicData/commit/f92a7f44b69f89f1151d9af0514a6e30d9b61ed5)
-Feature: SuspendNotifications Methods for SourceCache /
-IntermediateCache
-([#&amp;#8203;852](https://togithub.com/reactiveui/DynamicData/issues/852))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`0e5497a`](https://togithub.com/reactiveui/DynamicData/commit/0e5497a6d7df88c8b1a0a1416ba63f86a80f2942)
-Feature: OfType Operator
-([#&amp;#8203;865](https://togithub.com/reactiveui/DynamicData/issues/865))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
-
-#### Fixes:
-
--
-[`49ad041`](https://togithub.com/reactiveui/DynamicData/commit/49ad041b87a24636d8cc1f1bae78e142fc4b56c3)
-Fix ObservableSpy null mismatch issues
-([#&amp;#8203;803](https://togithub.com/reactiveui/DynamicData/issues/803))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
-
-#### Housekeeping:
-
--
-[`71c0e68`](https://togithub.com/reactiveui/DynamicData/commit/71c0e6891565f84832e429c96ef06d93cf99b3ad)
-housekeeping: Merged Sealing of List Internals
-([#&amp;#8203;796](https://togithub.com/reactiveui/DynamicData/issues/796))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
-
-#### Other:
-
--
-[`ff8b94a`](https://togithub.com/reactiveui/DynamicData/commit/ff8b94a639cbcb900c549324983a22e016792fb4)
-Implemented a variety of utilities for testing the core correctness of
-RX operators and streams, including notification sequencing and
-synchronization.
-([#&amp;#8203;797](https://togithub.com/reactiveui/DynamicData/issues/797))
-[@&amp;#8203;JakenVeina](https://togithub.com/JakenVeina)
--
-[`6680627`](https://togithub.com/reactiveui/DynamicData/commit/6680627a0990283ee75b997eb039a066230171ea)
-Sealed more internal classes
-([#&amp;#8203;799](https://togithub.com/reactiveui/DynamicData/issues/799))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`13bd8c6`](https://togithub.com/reactiveui/DynamicData/commit/13bd8c6336c2c62a7696de6a8121525f0d62b86c)
-Add stress tests from Cache-List to List-List
-([#&amp;#8203;800](https://togithub.com/reactiveui/DynamicData/issues/800))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`2217b59`](https://togithub.com/reactiveui/DynamicData/commit/2217b591027424be0c160ca4e5c7f18419f42c63)
-Added new implementations of `ISourceCache&lt;&gt;` and `ISourceList&lt;&gt;`, to
-allow manual injection of error and completion notifications, during
-tests for operators that work directly upon these interfaces, rather
-than `IObservable&lt;IChangeSet&gt;&gt;`
-([#&amp;#8203;801](https://togithub.com/reactiveui/DynamicData/issues/801))
-[@&amp;#8203;JakenVeina](https://togithub.com/JakenVeina)
--
-[`d0afe51`](https://togithub.com/reactiveui/DynamicData/commit/d0afe515a5bfe55d1c674d143b8745b14d444540)
-Added a new implementation of `IScheduler` to allow full control over
-execution of scheduled actions, by test orchestration code.
-([#&amp;#8203;809](https://togithub.com/reactiveui/DynamicData/issues/809))
-[@&amp;#8203;JakenVeina](https://togithub.com/JakenVeina)
--
-[`a7f29d1`](https://togithub.com/reactiveui/DynamicData/commit/a7f29d1d5408c6270c8e15375641a36e7f76118f)
-Reworked testing for EnumerableIList to be deterministic, to eliminate
-deterministic failures.
-([#&amp;#8203;818](https://togithub.com/reactiveui/DynamicData/issues/818))
-[@&amp;#8203;JakenVeina](https://togithub.com/JakenVeina)
--
-[`11b8b26`](https://togithub.com/reactiveui/DynamicData/commit/11b8b263414e63387d55539042de4b1b57176523)
-Update Verify.Xunit, Fix code after update.
-([#&amp;#8203;834](https://togithub.com/reactiveui/DynamicData/issues/834))
-[@&amp;#8203;ChrisPulman](https://togithub.com/ChrisPulman)
--
-[`5148d14`](https://togithub.com/reactiveui/DynamicData/commit/5148d1400de3457dfc2f29696ff4dc4297cfc8cf)
-TransformAsync enhancements
-([#&amp;#8203;819](https://togithub.com/reactiveui/DynamicData/issues/819))
-[@&amp;#8203;RolandPheasant](https://togithub.com/RolandPheasant)
--
-[`52f1b14`](https://togithub.com/reactiveui/DynamicData/commit/52f1b14caf923fb444c794442e13b391ab2773f7)
-Reworked testing for all versions of the `ExpireAfter` operator, to
-improve functional coverage and cover various existing defects.
-([#&amp;#8203;821](https://togithub.com/reactiveui/DynamicData/issues/821))
-[@&amp;#8203;JakenVeina](https://togithub.com/JakenVeina)
--
-[`7922e03`](https://togithub.com/reactiveui/DynamicData/commit/7922e03e6741f29c0850c53d15455934facde15b)
-Removed unused files previously used by testing for older .NET targets.
-([#&amp;#8203;843](https://togithub.com/reactiveui/DynamicData/issues/843))
-[@&amp;#8203;JakenVeina](https://togithub.com/JakenVeina)
--
-[`2ee4983`](https://togithub.com/reactiveui/DynamicData/commit/2ee4983cad172df728ca663ff42cfba54c3e9c01)
-chore(deps): update dependency microsoft.net.test.sdk to v17.9.0
-([#&amp;#8203;856](https://togithub.com/reactiveui/DynamicData/issues/856))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
--
-[`0c83473`](https://togithub.com/reactiveui/DynamicData/commit/0c834737c92f1ba6fc54440153340339e8ca492a)
-Update renovate.json
-[@&amp;#8203;glennawatson](https://togithub.com/glennawatson)
--
-[`e115b90`](https://togithub.com/reactiveui/DynamicData/commit/e115b9084380582be81bbd664679a033612d1293)
-chore(deps): update xunit-dotnet monorepo
-([#&amp;#8203;859](https://togithub.com/reactiveui/DynamicData/issues/859))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
--
-[`15f9798`](https://togithub.com/reactiveui/DynamicData/commit/15f97982fc7ee6de89b5c69a33ec2cd1b3fdc904)
-chore(deps): update dependency dotnet-sdk to v8.0.101
-([#&amp;#8203;855](https://togithub.com/reactiveui/DynamicData/issues/855))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
--
-[`d65af9e`](https://togithub.com/reactiveui/DynamicData/commit/d65af9ede61b859d7bc70149af8c65e23585da6a)
-chore(deps): update dependency verify.xunit to v23.1.0
-([#&amp;#8203;858](https://togithub.com/reactiveui/DynamicData/issues/858))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
--
-[`ef1e8c4`](https://togithub.com/reactiveui/DynamicData/commit/ef1e8c455707ea9930abcc4776b016acde8ece25)
-Maintenance: Centralized Value for Default IScheduler instance
-([#&amp;#8203;862](https://togithub.com/reactiveui/DynamicData/issues/862))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`4799289`](https://togithub.com/reactiveui/DynamicData/commit/4799289fecd6e0b8011ae6d8f1bdc2eee1c9ffcf)
-chore(deps): update dependency dotnet-sdk to v8.0.201
-([#&amp;#8203;866](https://togithub.com/reactiveui/DynamicData/issues/866))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
--
-[`8faa0dd`](https://togithub.com/reactiveui/DynamicData/commit/8faa0dd0e250e991d09880cf575073c2d35540db)
-chore(deps): update xunit-dotnet monorepo
-([#&amp;#8203;869](https://togithub.com/reactiveui/DynamicData/issues/869))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
--
-[`d3933e3`](https://togithub.com/reactiveui/DynamicData/commit/d3933e391990c04be28f7b92e32d4b3a36a14af5)
-ExpireAfter Redesign
-([#&amp;#8203;868](https://togithub.com/reactiveui/DynamicData/issues/868))
-[@&amp;#8203;JakenVeina](https://togithub.com/JakenVeina)
--
-[`7c150e6`](https://togithub.com/reactiveui/DynamicData/commit/7c150e6f61f5a60af82b4739bed6b1bb0704c067)
-Move DynamicDataOptions to its own file and into the top-level namespace
-([#&amp;#8203;864](https://togithub.com/reactiveui/DynamicData/issues/864))
-[@&amp;#8203;dwcullop](https://togithub.com/dwcullop)
--
-[`a04f1a1`](https://togithub.com/reactiveui/DynamicData/commit/a04f1a17f2c78b503347fe7b040f7b17370af3dc)
--
-([#&amp;#8203;876](https://togithub.com/reactiveui/DynamicData/issues/876))
-[@&amp;#8203;kronic](https://togithub.com/kronic)
--
-[`87cd2be`](https://togithub.com/reactiveui/DynamicData/commit/87cd2be2957af6f1e62c5f821b78d778185f1296)
-chore(deps): update dependency coverlet.collector to v6.0.1
-([#&amp;#8203;871](https://togithub.com/reactiveui/DynamicData/issues/871))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
--
-[`0ab0f52`](https://togithub.com/reactiveui/DynamicData/commit/0ab0f526e161988725fbfe133a6f73c0d026d9bc)
-chore(deps): update dependency bogus to v35.4.1
-([#&amp;#8203;877](https://togithub.com/reactiveui/DynamicData/issues/877))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
--
-[`bdad65b`](https://togithub.com/reactiveui/DynamicData/commit/bdad65bca604b5c24d1828433d97e8dc6e8e9a79)
-chore(deps): update dependency verify.xunit to v23.2.2
-([#&amp;#8203;867](https://togithub.com/reactiveui/DynamicData/issues/867))
-[@&amp;#8203;renovate](https://togithub.com/renovate)\[bot]
-
-&lt;/details&gt;
-
----
-
-### Configuration
-
-📅 **Schedule**: Branch creation - At any time (no schedule defined),
-Automerge - At any time (no schedule defined).
-
-🚦 **Automerge**: Disabled by config. Please merge this manually once you
-are satisfied.
-
-♻ **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-
-🔕 **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/reactiveui/ReactiveUI).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">renovate/coverlet.msbuild-6.x</span>
+                                        in
+                                        <span class="repo">reactiveui/Fusillade</span>
                                     </div>
                                 </div>
                             </section>
@@ -710,14 +280,20 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">renovate/dynamicdata-8.x</span>
-                                        in
-                                        <span class="repo">reactiveui/ReactiveUI</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">reactiveui/Fusillade</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#701c9fc</div>
+                                        <div class="message">chore(deps): update dependency coverlet.msbuild to v6.0.2 (#363)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -730,11 +306,11 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#3780 chore(deps): update dependency dynamicdata to v8.3.93</span>
+                                        <span class="issue">#363 chore(deps): update dependency coverlet.msbuild to v6.0.2</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">reactiveui/ReactiveUI</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">reactiveui/Fusillade</span></div>
                                     <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
@@ -747,11 +323,11 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#3780 chore(deps): update dependency dynamicdata to v8.3.93</span>
+                                        <span class="issue">#363 chore(deps): update dependency coverlet.msbuild to v6.0.2</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">reactiveui/ReactiveUI</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">reactiveui/Fusillade</span></div>
                                 </div>
                             </section>
                         </div>
@@ -759,14 +335,20 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">renovate/roslynator.analyzers-4.x</span>
-                                        in
-                                        <span class="repo">ChrisPulman/Spectre.Console.Rx</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">reactiveui/Fusillade</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ec087a</div>
+                                        <div class="message">chore(deps): update dependency roslynator.analyzers to v4.12.0 (#364)
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -776,7 +358,7 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2024, 01:07:05 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Mar 2024, 01:04:45 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
