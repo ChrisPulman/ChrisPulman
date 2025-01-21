@@ -248,7 +248,7 @@
 #### ReactiveMarbles.CrissCross.WinForms ![Nuget](https://img.shields.io/nuget/v/CrissCross.WinForms) ![Nuget](https://img.shields.io/nuget/dt/CrissCross.WinForms)
 
 ## MQTTnet.Rx
-#### MQTTnet.Rx.ManagedClient ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.Client) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.Client)
+#### MQTTnet.Rx.Client ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.Client) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.Client)
 #### MQTTnet.Rx.ABPlc ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.ABPlc) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.ABPlc)
 #### MQTTnet.Rx.Modbus ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.Modbus) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.Modbus)
 #### MQTTnet.Rx.S7Plc ![NuGet](https://img.shields.io/nuget/v/MQTTnet.Rx.S7Plc) ![Nuget](https://img.shields.io/nuget/dt/MQTTnet.Rx.S7Plc)
