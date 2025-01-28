@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="845" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="813" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors .avatar{margin:2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -82,19 +82,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3081 Commits
+                            3085 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            2178 Pull requests reviewed
+                            2143 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            321 Pull requests opened
+                            315 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -268,14 +268,804 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">reactivemarbles/CacheDatabase</span>
+                                        <span class="repo">reactiveui/ReactiveUI</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b49e2c</div>
-                                        <div class="message">chore(deps): update dotnet monorepo to v9 (#272)
+                                        <div class="sha">#7ce1efb</div>
+                                        <div class="message">chore(deps): update dependency fluentassertions to v8 (#3950)
+
+This PR contains the following updates:
+
+| Package | Change | Age | Adoption | Passing | Confidence |
+|---|---|---|---|---|---|
+|
+[FluentAssertions](https://xceed.com/products/unit-testing/fluent-assertions/)
+([source](https://redirect.github.com/fluentassertions/fluentassertions))
+| `7.0.0` -&gt; `8.0.0` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/FluentAssertions/8.0.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/FluentAssertions/8.0.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/FluentAssertions/7.0.0/8.0.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/FluentAssertions/7.0.0/8.0.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+
+---
+
+### Release Notes
+
+&lt;details&gt;
+&lt;summary&gt;fluentassertions/fluentassertions (FluentAssertions)&lt;/summary&gt;
+
+###
+[`v8.0.0`](https://redirect.github.com/fluentassertions/fluentassertions/releases/tag/8.0.0)
+
+[Compare
+Source](https://redirect.github.com/fluentassertions/fluentassertions/compare/7.1.0...8.0.0)
+
+&lt;!-- Release notes generated using configuration in .github/release.yml
+at main --&gt;
+
+#### What's Changed
+
+##### License change
+
+- Update ownership and license to the [Xceed Community
+License](https://redirect.github.com/fluentassertions/fluentassertions/blob/main/LICENSE.md)
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2943](https://redirect.github.com/fluentassertions/fluentassertions/pull/2943)
+
+##### Breaking Changes
+
+- Moved all support for DataSet, DataTable, DataRow into
+[FluentAssertions.DataSets](https://redirect.github.com/fluentassertions/fluentassertions.datasets)
+by [@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2267](https://redirect.github.com/fluentassertions/fluentassertions/pull/2267)
+- Remove obsolete `OrEqualTo` methods by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2269](https://redirect.github.com/fluentassertions/fluentassertions/pull/2269)
+- Remove `SpacesPerIndentionLevel` by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2281](https://redirect.github.com/fluentassertions/fluentassertions/pull/2281)
+- Drop support for .NET Core by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2302](https://redirect.github.com/fluentassertions/fluentassertions/pull/2302)
+- Change `AllSatisfy` to succeed on empty collections by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2321](https://redirect.github.com/fluentassertions/fluentassertions/pull/2321)
+- Add `ForConstraint` to `IAssertionScope` by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2324](https://redirect.github.com/fluentassertions/fluentassertions/pull/2324)
+- Change `OnlyContain` to succeed on empty collections by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2350](https://redirect.github.com/fluentassertions/fluentassertions/pull/2350)
+- Drop support for `NSpec3` by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2356](https://redirect.github.com/fluentassertions/fluentassertions/pull/2356)
+- Removed binary formatter by
+[@&amp;#8203;lg2de](https://redirect.github.com/lg2de) in
+[https://github.com/fluentassertions/fluentassertions/pull/2278](https://redirect.github.com/fluentassertions/fluentassertions/pull/2278)
+- Converted AsyncFunctionAssertions into real base class by
+[@&amp;#8203;lg2de](https://redirect.github.com/lg2de) in
+[https://github.com/fluentassertions/fluentassertions/pull/2359](https://redirect.github.com/fluentassertions/fluentassertions/pull/2359)
+- Move non-generic `NotThrow[After]` to `ActionAssertions` by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2371](https://redirect.github.com/fluentassertions/fluentassertions/pull/2371)
+- Rename `EquivalencyAssertionOptions` to `EquivalencyOptions` by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2414](https://redirect.github.com/fluentassertions/fluentassertions/pull/2414)
+- Allow fluently calling `WithoutMatchingRules` and
+`WithoutSelectionRules` while using `BeEquivalentTo` by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2457](https://redirect.github.com/fluentassertions/fluentassertions/pull/2457)
+- Consolidate namespace and file location by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2449](https://redirect.github.com/fluentassertions/fluentassertions/pull/2449)
+- Allow event monitoring to ignore failing event accessors by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2629](https://redirect.github.com/fluentassertions/fluentassertions/pull/2629)
+- Improve BeUpperCased/BeLowerCased semantics by
+[@&amp;#8203;drewjcooper](https://redirect.github.com/drewjcooper) in
+[https://github.com/fluentassertions/fluentassertions/pull/2660](https://redirect.github.com/fluentassertions/fluentassertions/pull/2660)
+- Various naming improvements by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2745](https://redirect.github.com/fluentassertions/fluentassertions/pull/2745)
+- Redesigned AssertionScope and how it travels over chained calls by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2539](https://redirect.github.com/fluentassertions/fluentassertions/pull/2539)
+- Simplify inheritance of `SubsequentOrderingAssertions` by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2439](https://redirect.github.com/fluentassertions/fluentassertions/pull/2439)
+- Renamed `RespectingRuntimeTypes` and `RespectingDeclaredTypes` to
+better clarify their purpose by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2866](https://redirect.github.com/fluentassertions/fluentassertions/pull/2866)
+- Renamed ExcludingNestedObjects to WithoutRecursing to better describe
+its purpose by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2876](https://redirect.github.com/fluentassertions/fluentassertions/pull/2876)
+- Remove support for `HttpResponseMessage` assertions by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2909](https://redirect.github.com/fluentassertions/fluentassertions/pull/2909)
+- Redesign Configuration, Services and AssertionOptions by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2901](https://redirect.github.com/fluentassertions/fluentassertions/pull/2901)
+
+##### New features
+
+- Introduces an attribute to mark an entire assembly as one that
+contains custom assertions. by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2389](https://redirect.github.com/fluentassertions/fluentassertions/pull/2389)
+- Introduced a new attribute to allow global initialization of the
+assertion options by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2292](https://redirect.github.com/fluentassertions/fluentassertions/pull/2292)
+- Add support for NUnit4 by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2483](https://redirect.github.com/fluentassertions/fluentassertions/pull/2483)
+- Add missing `NotBeIn(DateTimeKind)` `DateTime` assertion by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2536](https://redirect.github.com/fluentassertions/fluentassertions/pull/2536)
+- Allow specifying `EquivalencyOptions` in string assertions by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2413](https://redirect.github.com/fluentassertions/fluentassertions/pull/2413)
+- Add BeNaN and NotBeNaN assertions by
+[@&amp;#8203;arocheleau](https://redirect.github.com/arocheleau) in
+[https://github.com/fluentassertions/fluentassertions/pull/2606](https://redirect.github.com/fluentassertions/fluentassertions/pull/2606)
+- Add scoped value formatters by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2676](https://redirect.github.com/fluentassertions/fluentassertions/pull/2676)
+- TUnit Framework Support by
+[@&amp;#8203;thomhurst](https://redirect.github.com/thomhurst) in
+[https://github.com/fluentassertions/fluentassertions/pull/2758](https://redirect.github.com/fluentassertions/fluentassertions/pull/2758)
+
+##### Improvements
+
+- Optimize `TypeMemberReflector` by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2320](https://redirect.github.com/fluentassertions/fluentassertions/pull/2320)
+- Improve failure message for string assertions when checking for
+equality by [@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2307](https://redirect.github.com/fluentassertions/fluentassertions/pull/2307)
+- Capitalize true and false in failure messages by
+[@&amp;#8203;BusHero](https://redirect.github.com/BusHero) in
+[https://github.com/fluentassertions/fluentassertions/pull/2390](https://redirect.github.com/fluentassertions/fluentassertions/pull/2390)
+- Pass Boolean literals as becauseArguments by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2393](https://redirect.github.com/fluentassertions/fluentassertions/pull/2393)
+- BeEmpty() materializes IEnumerable&lt;T&gt; only once, even on failure by
+[@&amp;#8203;louis-z](https://redirect.github.com/louis-z) in
+[https://github.com/fluentassertions/fluentassertions/pull/2530](https://redirect.github.com/fluentassertions/fluentassertions/pull/2530)
+- Add \[NotNull] attribute on the Should() method for object assertions
+by [@&amp;#8203;0xced](https://redirect.github.com/0xced) in
+[https://github.com/fluentassertions/fluentassertions/pull/2380](https://redirect.github.com/fluentassertions/fluentassertions/pull/2380)
+- Allow nested `AssertionScope`s to chain their context by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2607](https://redirect.github.com/fluentassertions/fluentassertions/pull/2607)
+- Avoid allocations when chaining contexts by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2613](https://redirect.github.com/fluentassertions/fluentassertions/pull/2613)
+- Add option to ignore newline style when comparing strings for
+equivalency by [@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2565](https://redirect.github.com/fluentassertions/fluentassertions/pull/2565)
+- Add `[StringSyntax("CompositeFormat")]` to all `because` parameters by
+[@&amp;#8203;psychotoad](https://redirect.github.com/psychotoad) in
+[https://github.com/fluentassertions/fluentassertions/pull/2635](https://redirect.github.com/fluentassertions/fluentassertions/pull/2635)
+- Add support for `Satisfy` on `ReferenceTypeAssertions` by
+[@&amp;#8203;siewers](https://redirect.github.com/siewers) in
+[https://github.com/fluentassertions/fluentassertions/pull/2597](https://redirect.github.com/fluentassertions/fluentassertions/pull/2597)
+- Filter the list of events returned by RaisePropertyChangeFor by
+[@&amp;#8203;arocheleau](https://redirect.github.com/arocheleau) in
+[https://github.com/fluentassertions/fluentassertions/pull/2677](https://redirect.github.com/fluentassertions/fluentassertions/pull/2677)
+- Add a bunch of assertions on `XElement` and `XDocument` by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2690](https://redirect.github.com/fluentassertions/fluentassertions/pull/2690)
+- Correctly specify nullability of Subject for `NumericAssertions` by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2473](https://redirect.github.com/fluentassertions/fluentassertions/pull/2473)
+
+##### Fixes
+
+- Fixed formatting error when checking nullable `DateTimeOffset` with
+`BeWithin`/`Before` by
+[@&amp;#8203;rokklobster](https://redirect.github.com/rokklobster) in
+[https://github.com/fluentassertions/fluentassertions/pull/2312](https://redirect.github.com/fluentassertions/fluentassertions/pull/2312)
+- Ensure explicitly implemented members are discoverable in
+BeEquivalentTo by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2152](https://redirect.github.com/fluentassertions/fluentassertions/pull/2152)
+- Pass down the reason to inner `AssertionScope` by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2318](https://redirect.github.com/fluentassertions/fluentassertions/pull/2318)
+- Handle comparing an `IDictionary` subject with an `IDictionary&lt;,&gt;`
+expectation by [@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone)
+in
+[https://github.com/fluentassertions/fluentassertions/pull/2358](https://redirect.github.com/fluentassertions/fluentassertions/pull/2358)
+- Pass `FormattingOptions` to inner `AssertionScope` by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2329](https://redirect.github.com/fluentassertions/fluentassertions/pull/2329)
+- Improve failure message for `NotBeOfType` and
+`BeReadable`/`BeWritable` by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2399](https://redirect.github.com/fluentassertions/fluentassertions/pull/2399)
+- Do not continue asserting on the concrete exception type when the
+exception is `null` by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2398](https://redirect.github.com/fluentassertions/fluentassertions/pull/2398)
+- Guard methods against assertion scope
+`[Not]HaveExplicit(Property|Method)` by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2403](https://redirect.github.com/fluentassertions/fluentassertions/pull/2403)
+- Exclude `private protected` members from `BeEquivalentTo` by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2417](https://redirect.github.com/fluentassertions/fluentassertions/pull/2417)
+- Fix issue when an empty ArraySegment is a member of a class by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2511](https://redirect.github.com/fluentassertions/fluentassertions/pull/2511)
+- Correct null handling when using a custom comparer by
+[@&amp;#8203;MartinDemberger](https://redirect.github.com/MartinDemberger)
+in
+[https://github.com/fluentassertions/fluentassertions/pull/2489](https://redirect.github.com/fluentassertions/fluentassertions/pull/2489)
+- Avoid treating `"\\r\\n"` as new line. by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2569](https://redirect.github.com/fluentassertions/fluentassertions/pull/2569)
+- Make `ThrowWithinAsync` respect canceled tasks by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2614](https://redirect.github.com/fluentassertions/fluentassertions/pull/2614)
+- Fixed `BeEquivalentTo` when using a custom comparer targeting nullable
+types by [@&amp;#8203;arocheleau](https://redirect.github.com/arocheleau) in
+[https://github.com/fluentassertions/fluentassertions/pull/2648](https://redirect.github.com/fluentassertions/fluentassertions/pull/2648)
+- Remove non-compliant `StringSyntaxAttribute` by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2669](https://redirect.github.com/fluentassertions/fluentassertions/pull/2669)
+- Do not use `UsingLineBreaks` for `[Not]BeSameAs` by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2726](https://redirect.github.com/fluentassertions/fluentassertions/pull/2726)
+- Properly report the path even if custom mapping is used by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2860](https://redirect.github.com/fluentassertions/fluentassertions/pull/2860)
+- GlobalConfiguration.TestFramework did not reconfigure the run-time
+test framework being used. by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2918](https://redirect.github.com/fluentassertions/fluentassertions/pull/2918)
+- GlobalEquivalencyOptions.CloneDefaults needs to be public by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2926](https://redirect.github.com/fluentassertions/fluentassertions/pull/2926)
+
+##### Documentation
+
+- added closing parenthesis in docs (collections.md) by
+[@&amp;#8203;JoelWakefield](https://redirect.github.com/JoelWakefield) in
+[https://github.com/fluentassertions/fluentassertions/pull/2295](https://redirect.github.com/fluentassertions/fluentassertions/pull/2295)
+- Grammatical changes of "which" to "whose" by
+[@&amp;#8203;mpityo](https://redirect.github.com/mpityo) in
+[https://github.com/fluentassertions/fluentassertions/pull/2355](https://redirect.github.com/fluentassertions/fluentassertions/pull/2355)
+- Add a note to XML-docs that explains the `(Not)ContainEquivalentOf`
+problem by [@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2354](https://redirect.github.com/fluentassertions/fluentassertions/pull/2354)
+- Add release notes for
+[#&amp;#8203;2393](https://redirect.github.com/fluentassertions/fluentassertions/issues/2393)
+by [@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2396](https://redirect.github.com/fluentassertions/fluentassertions/pull/2396)
+- Restore `DateTime` tips by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2422](https://redirect.github.com/fluentassertions/fluentassertions/pull/2422)
+- Added more date/time tips by
+[@&amp;#8203;Meir017](https://redirect.github.com/Meir017) in
+[https://github.com/fluentassertions/fluentassertions/pull/2435](https://redirect.github.com/fluentassertions/fluentassertions/pull/2435)
+- Update release notes WRT recent BeEmpty improvements by
+[@&amp;#8203;louis-z](https://redirect.github.com/louis-z) in
+[https://github.com/fluentassertions/fluentassertions/pull/2541](https://redirect.github.com/fluentassertions/fluentassertions/pull/2541)
+- Document preference of rebase over merge when updating local branches
+by [@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2544](https://redirect.github.com/fluentassertions/fluentassertions/pull/2544)
+- Correct spelling in 'Then' property summary xml documentation. by
+[@&amp;#8203;PKirch-SE](https://redirect.github.com/PKirch-SE) in
+[https://github.com/fluentassertions/fluentassertions/pull/2594](https://redirect.github.com/fluentassertions/fluentassertions/pull/2594)
+- Remove release notes from 8.0.0 that were backported to 6.12.x or
+7.0.0 by [@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2908](https://redirect.github.com/fluentassertions/fluentassertions/pull/2908)
+- Fix syntax error - `enum` is reserved word so cannot be used as an id…
+by [@&amp;#8203;lazyrainynight](https://redirect.github.com/lazyrainynight)
+in
+[https://github.com/fluentassertions/fluentassertions/pull/2921](https://redirect.github.com/fluentassertions/fluentassertions/pull/2921)
+- Add missing semicolon by
+[@&amp;#8203;lazyrainynight](https://redirect.github.com/lazyrainynight) in
+[https://github.com/fluentassertions/fluentassertions/pull/2922](https://redirect.github.com/fluentassertions/fluentassertions/pull/2922)
+- Add missing semicolons by
+[@&amp;#8203;lazyrainynight](https://redirect.github.com/lazyrainynight) in
+[https://github.com/fluentassertions/fluentassertions/pull/2920](https://redirect.github.com/fluentassertions/fluentassertions/pull/2920)
+- Update enums.md to fix typo by
+[@&amp;#8203;lazyrainynight](https://redirect.github.com/lazyrainynight) in
+[https://github.com/fluentassertions/fluentassertions/pull/2919](https://redirect.github.com/fluentassertions/fluentassertions/pull/2919)
+- Update landing page by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2944](https://redirect.github.com/fluentassertions/fluentassertions/pull/2944)
+
+##### Others
+
+- Upmerge master by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2272](https://redirect.github.com/fluentassertions/fluentassertions/pull/2272)
+- Fix qodana issues 3 by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2277](https://redirect.github.com/fluentassertions/fluentassertions/pull/2277)
+- Fix Possible 'System.NullReferenceException' warning from Rider and
+Qodana by [@&amp;#8203;lg2de](https://redirect.github.com/lg2de) in
+[https://github.com/fluentassertions/fluentassertions/pull/2276](https://redirect.github.com/fluentassertions/fluentassertions/pull/2276)
+- Add Dependabot by [@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup)
+in
+[https://github.com/fluentassertions/fluentassertions/pull/2280](https://redirect.github.com/fluentassertions/fluentassertions/pull/2280)
+- Updated sponsors by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2284](https://redirect.github.com/fluentassertions/fluentassertions/pull/2284)
+- Upmerge website changes from master by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2286](https://redirect.github.com/fluentassertions/fluentassertions/pull/2286)
+- Optimize the PR-help-options in issue templates by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2297](https://redirect.github.com/fluentassertions/fluentassertions/pull/2297)
+- Update FluentAssertions.csproj by
+[@&amp;#8203;WeihanLi](https://redirect.github.com/WeihanLi) in
+[https://github.com/fluentassertions/fluentassertions/pull/2300](https://redirect.github.com/fluentassertions/fluentassertions/pull/2300)
+- Refactor `StringValidator` to avoid inheritance by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2296](https://redirect.github.com/fluentassertions/fluentassertions/pull/2296)
+- Make Gitversion+GitRepository required by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2304](https://redirect.github.com/fluentassertions/fluentassertions/pull/2304)
+- Silence CA1859 by [@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup)
+in
+[https://github.com/fluentassertions/fluentassertions/pull/2303](https://redirect.github.com/fluentassertions/fluentassertions/pull/2303)
+- Fix various Qodana issues and update the threshold by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2311](https://redirect.github.com/fluentassertions/fluentassertions/pull/2311)
+- Run the Qodana on Windows so .NET 4.7 scanning works. by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2313](https://redirect.github.com/fluentassertions/fluentassertions/pull/2313)
+- Ensure non-PR builds don't use Qodana PR mode by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2317](https://redirect.github.com/fluentassertions/fluentassertions/pull/2317)
+- Add missing `DateTimeOffset` tests by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2314](https://redirect.github.com/fluentassertions/fluentassertions/pull/2314)
+- Remove unused System.Collections dependency from benchmarks by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2323](https://redirect.github.com/fluentassertions/fluentassertions/pull/2323)
+- Test that collection assertions supports vacuous truths by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2322](https://redirect.github.com/fluentassertions/fluentassertions/pull/2322)
+- Rename the unit test steps to match what's done inside the steps by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2325](https://redirect.github.com/fluentassertions/fluentassertions/pull/2325)
+- Use 'npm' for yarn packages. by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2326](https://redirect.github.com/fluentassertions/fluentassertions/pull/2326)
+- Bump actions/checkout from 3 to 4 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2333](https://redirect.github.com/fluentassertions/fluentassertions/pull/2333)
+- Bump Meziantou.Analyzer from 2.0.70 to 2.0.85 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2334](https://redirect.github.com/fluentassertions/fluentassertions/pull/2334)
+- Bump cspell from 7.0.0 to 7.3.6 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2332](https://redirect.github.com/fluentassertions/fluentassertions/pull/2332)
+- Group dependabot updates by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2337](https://redirect.github.com/fluentassertions/fluentassertions/pull/2337)
+- Add missing `internal` modifier for `TypeMemberReflector` benchmarks
+by [@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2348](https://redirect.github.com/fluentassertions/fluentassertions/pull/2348)
+- Bump Roslynator.Analyzers from 4.3.0 to 4.5.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2338](https://redirect.github.com/fluentassertions/fluentassertions/pull/2338)
+- Bump cspell from 7.3.6 to 7.3.7 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2340](https://redirect.github.com/fluentassertions/fluentassertions/pull/2340)
+- Bump the nuke group with 2 updates by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2343](https://redirect.github.com/fluentassertions/fluentassertions/pull/2343)
+- Bump the xunit group with 3 updates by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2341](https://redirect.github.com/fluentassertions/fluentassertions/pull/2341)
+- Add missing test for `because` is `null` by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2327](https://redirect.github.com/fluentassertions/fluentassertions/pull/2327)
+- Bump Microsoft.NET.Test.Sdk from 17.6.3 to 17.7.2 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2351](https://redirect.github.com/fluentassertions/fluentassertions/pull/2351)
+- Bump the mstest group with 2 updates by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2347](https://redirect.github.com/fluentassertions/fluentassertions/pull/2347)
+- Bump BenchmarkDotNet from 0.13.6 to 0.13.8 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2345](https://redirect.github.com/fluentassertions/fluentassertions/pull/2345)
+- Checkout the merge commit for Qodana to generate correct results by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2349](https://redirect.github.com/fluentassertions/fluentassertions/pull/2349)
+- Bump Meziantou.Analyzer from 2.0.85 to 2.0.92 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2357](https://redirect.github.com/fluentassertions/fluentassertions/pull/2357)
+- Decrease the Qodana `failThreshold` by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2360](https://redirect.github.com/fluentassertions/fluentassertions/pull/2360)
+- Bump CSharpGuidelinesAnalyzer from 3.8.3 to 3.8.4 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2362](https://redirect.github.com/fluentassertions/fluentassertions/pull/2362)
+- Do not ignore `cSpell` on releases.md anymore by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2361](https://redirect.github.com/fluentassertions/fluentassertions/pull/2361)
+- Bump BenchmarkDotNet from 0.13.8 to 0.13.9 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2366](https://redirect.github.com/fluentassertions/fluentassertions/pull/2366)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2365](https://redirect.github.com/fluentassertions/fluentassertions/pull/2365)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2367](https://redirect.github.com/fluentassertions/fluentassertions/pull/2367)
+- Remove unused using by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2369](https://redirect.github.com/fluentassertions/fluentassertions/pull/2369)
+- Replace constructor with members initialized inline by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2370](https://redirect.github.com/fluentassertions/fluentassertions/pull/2370)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2373](https://redirect.github.com/fluentassertions/fluentassertions/pull/2373)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2375](https://redirect.github.com/fluentassertions/fluentassertions/pull/2375)
+- Bump Meziantou.Analyzer from 2.0.92 to 2.0.93 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2377](https://redirect.github.com/fluentassertions/fluentassertions/pull/2377)
+- Use targeted methods instead of LINQ by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2376](https://redirect.github.com/fluentassertions/fluentassertions/pull/2376)
+- Switch to preferred syntax style by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2384](https://redirect.github.com/fluentassertions/fluentassertions/pull/2384)
+- Bump cspell from 7.3.7 to 7.3.8 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2383](https://redirect.github.com/fluentassertions/fluentassertions/pull/2383)
+- Bump the xunit group with 2 updates by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2382](https://redirect.github.com/fluentassertions/fluentassertions/pull/2382)
+- Ignore ` UnusedMember.Global ` Qodana scan rule and add missing tests
+by [@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2378](https://redirect.github.com/fluentassertions/fluentassertions/pull/2378)
+- Run dependabot weekly by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2388](https://redirect.github.com/fluentassertions/fluentassertions/pull/2388)
+- Add missing chaining test for "Method return value is never used" by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2387](https://redirect.github.com/fluentassertions/fluentassertions/pull/2387)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2392](https://redirect.github.com/fluentassertions/fluentassertions/pull/2392)
+- Allow specifying the build configuration. by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2386](https://redirect.github.com/fluentassertions/fluentassertions/pull/2386)
+- A few fixed qodana issues by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2379](https://redirect.github.com/fluentassertions/fluentassertions/pull/2379)
+- Fix small typos in release notes by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2397](https://redirect.github.com/fluentassertions/fluentassertions/pull/2397)
+- Use base class constructor in delegate assertions by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2401](https://redirect.github.com/fluentassertions/fluentassertions/pull/2401)
+- Bump Meziantou.Analyzer from 2.0.93 to 2.0.94 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2406](https://redirect.github.com/fluentassertions/fluentassertions/pull/2406)
+- Bump Roslynator.Analyzers from 4.5.0 to 4.6.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2405](https://redirect.github.com/fluentassertions/fluentassertions/pull/2405)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2404](https://redirect.github.com/fluentassertions/fluentassertions/pull/2404)
+- Fix qodana issues by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2394](https://redirect.github.com/fluentassertions/fluentassertions/pull/2394)
+- Remove unecessary call to `Subject.Should()` by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2402](https://redirect.github.com/fluentassertions/fluentassertions/pull/2402)
+- Cleanup by [@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2408](https://redirect.github.com/fluentassertions/fluentassertions/pull/2408)
+- Simplify the ApiApproval test by
+[@&amp;#8203;0xced](https://redirect.github.com/0xced) in
+[https://github.com/fluentassertions/fluentassertions/pull/2381](https://redirect.github.com/fluentassertions/fluentassertions/pull/2381)
+- Split ObjectAssertionSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2416](https://redirect.github.com/fluentassertions/fluentassertions/pull/2416)
+- Bump Meziantou.Analyzer from 2.0.94 to 2.0.103 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2421](https://redirect.github.com/fluentassertions/fluentassertions/pull/2421)
+- Bump Roslynator.Analyzers from 4.6.0 to 4.6.1 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2420](https://redirect.github.com/fluentassertions/fluentassertions/pull/2420)
+- Bump the xunit group with 2 updates by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2418](https://redirect.github.com/fluentassertions/fluentassertions/pull/2418)
+- Bump Microsoft.NET.Test.Sdk from 17.6.3 to 17.7.2 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2419](https://redirect.github.com/fluentassertions/fluentassertions/pull/2419)
+- Split NullableNumericAssertionSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2428](https://redirect.github.com/fluentassertions/fluentassertions/pull/2428)
+- Split GenericDictionaryAssertionSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2424](https://redirect.github.com/fluentassertions/fluentassertions/pull/2424)
+- Split GenericCollectionAssertionOfStringSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2425](https://redirect.github.com/fluentassertions/fluentassertions/pull/2425)
+- Split DateTimeOffsetAssertionSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2426](https://redirect.github.com/fluentassertions/fluentassertions/pull/2426)
+- Split DateTimeAssertionSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2427](https://redirect.github.com/fluentassertions/fluentassertions/pull/2427)
+- Split DateOnlyAssertionSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2430](https://redirect.github.com/fluentassertions/fluentassertions/pull/2430)
+- Split TimeOnlyAssertionSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2429](https://redirect.github.com/fluentassertions/fluentassertions/pull/2429)
+- Split NumericAssertionSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2423](https://redirect.github.com/fluentassertions/fluentassertions/pull/2423)
+- Add EqualityStrategyProvider for
+`SelfReferenceEquivalencyAssertionOptions` by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2431](https://redirect.github.com/fluentassertions/fluentassertions/pull/2431)
+- Bump BenchmarkDotNet from 0.13.9 to 0.13.10 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2443](https://redirect.github.com/fluentassertions/fluentassertions/pull/2443)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2440](https://redirect.github.com/fluentassertions/fluentassertions/pull/2440)
+- Bump the nunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2441](https://redirect.github.com/fluentassertions/fluentassertions/pull/2441)
+- Add missing tests for `Configuration` by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2438](https://redirect.github.com/fluentassertions/fluentassertions/pull/2438)
+- Bump LibGit2Sharp from 0.27.2 to 0.28.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2442](https://redirect.github.com/fluentassertions/fluentassertions/pull/2442)
+- Remove unused using directives by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2447](https://redirect.github.com/fluentassertions/fluentassertions/pull/2447)
+- Split SelectionRulesSpecs in multiple files by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2456](https://redirect.github.com/fluentassertions/fluentassertions/pull/2456)
+- Bump JetBrains.Annotations from 2023.2.0 to 2023.3.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2462](https://redirect.github.com/fluentassertions/fluentassertions/pull/2462)
+- Bump Meziantou.Analyzer from 2.0.103 to 2.0.109 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2461](https://redirect.github.com/fluentassertions/fluentassertions/pull/2461)
+- Bump Microsoft.NET.Test.Sdk from 17.7.2 to 17.8.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2460](https://redirect.github.com/fluentassertions/fluentassertions/pull/2460)
+- Bump Roslynator.Analyzers from 4.6.1 to 4.6.2 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2463](https://redirect.github.com/fluentassertions/fluentassertions/pull/2463)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2459](https://redirect.github.com/fluentassertions/fluentassertions/pull/2459)
+- Avoid possible 'System.NullReferenceException' in
+`PredicateLambdaExpressionValueFormatter` by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2453](https://redirect.github.com/fluentassertions/fluentassertions/pull/2453)
+- Bump cSpell to 8.0.0 by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2464](https://redirect.github.com/fluentassertions/fluentassertions/pull/2464)
+- Remove .NET Core 2.1.x and 3.1.x from build SDK setup by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2467](https://redirect.github.com/fluentassertions/fluentassertions/pull/2467)
+- Add missing tests for ActionAssertions and DelegateAssertions by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2454](https://redirect.github.com/fluentassertions/fluentassertions/pull/2454)
+- Avoid possible 'null' assignment in `CallerIdentifier` by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2448](https://redirect.github.com/fluentassertions/fluentassertions/pull/2448)
+- Correct Qodana `failThreshold` by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2437](https://redirect.github.com/fluentassertions/fluentassertions/pull/2437)
+- Add `releases.md` to solution items by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2469](https://redirect.github.com/fluentassertions/fluentassertions/pull/2469)
+- Avoid variable in local function that hides variable from outer scope
+by [@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2471](https://redirect.github.com/fluentassertions/fluentassertions/pull/2471)
+- Disable qodana rules in poly fills by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2468](https://redirect.github.com/fluentassertions/fluentassertions/pull/2468)
+- Run tests under .NET 8 by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2466](https://redirect.github.com/fluentassertions/fluentassertions/pull/2466)
+- Use Qodana EAP to support .NET 8 by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2474](https://redirect.github.com/fluentassertions/fluentassertions/pull/2474)
+- Bump Meziantou.Analyzer from 2.0.109 to 2.0.110 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2477](https://redirect.github.com/fluentassertions/fluentassertions/pull/2477)
+- Bump the xunit group with 3 updates by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2475](https://redirect.github.com/fluentassertions/fluentassertions/pull/2475)
+- Bump Microsoft.SourceLink.GitHub from 1.1.1 to 8.0.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2476](https://redirect.github.com/fluentassertions/fluentassertions/pull/2476)
+- Bump Roslynator.Analyzers from 4.6.2 to 4.6.4 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2487](https://redirect.github.com/fluentassertions/fluentassertions/pull/2487)
+- Bump Meziantou.Analyzer from 2.0.110 to 2.0.112 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2486](https://redirect.github.com/fluentassertions/fluentassertions/pull/2486)
+- Bump the xunit group with 1 update by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2484](https://redirect.github.com/fluentassertions/fluentassertions/pull/2484)
+- Update the required minimum VS version by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2491](https://redirect.github.com/fluentassertions/fluentassertions/pull/2491)
+- Bump PolySharp from 1.13.2 to 1.14.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2503](https://redirect.github.com/fluentassertions/fluentassertions/pull/2503)
+- Bump Meziantou.Analyzer from 2.0.112 to 2.0.118 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2502](https://redirect.github.com/fluentassertions/fluentassertions/pull/2502)
+- Switch back to the release version of Qodana (to officially support
+.NET 8) by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2495](https://redirect.github.com/fluentassertions/fluentassertions/pull/2495)
+- Bump LibGit2Sharp from 0.28.0 to 0.29.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2500](https://redirect.github.com/fluentassertions/fluentassertions/pull/2500)
+- Bump actions/setup-dotnet from 3 to 4 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2498](https://redirect.github.com/fluentassertions/fluentassertions/pull/2498)
+- Bump cspell from 8.0.0 to 8.1.2 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2497](https://redirect.github.com/fluentassertions/fluentassertions/pull/2497)
+- Bump Roslynator.Analyzers from 4.6.4 to 4.7.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2501](https://redirect.github.com/fluentassertions/fluentassertions/pull/2501)
+- Bump cspell from 8.1.2 to 8.1.3 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2506](https://redirect.github.com/fluentassertions/fluentassertions/pull/2506)
+- Bump Meziantou.Analyzer from 2.0.118 to 2.0.120 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2510](https://redirect.github.com/fluentassertions/fluentassertions/pull/2510)
+- Bump PolySharp from 1.13.2 to 1.14.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2508](https://redirect.github.com/fluentassertions/fluentassertions/pull/2508)
+- Bump PublicApiGenerator from 11.0.0 to 11.1.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2509](https://redirect.github.com/fluentassertions/fluentassertions/pull/2509)
+- Turn off RoslynAnalyzers in Qodana WF by
+[@&amp;#8203;hybloid](https://redirect.github.com/hybloid) in
+[https://github.com/fluentassertions/fluentassertions/pull/2504](https://redirect.github.com/fluentassertions/fluentassertions/pull/2504)
+- Bump Bogus from 34.0.2 to 35.0.1 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2519](https://redirect.github.com/fluentassertions/fluentassertions/pull/2519)
+- Bump PolySharp from 1.14.0 to 1.14.1 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2518](https://redirect.github.com/fluentassertions/fluentassertions/pull/2518)
+- Bump Meziantou.Analyzer from 2.0.120 to 2.0.123 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2520](https://redirect.github.com/fluentassertions/fluentassertions/pull/2520)
+- Bump actions/upload-artifact from 3 to 4 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2521](https://redirect.github.com/fluentassertions/fluentassertions/pull/2521)
+- Upgrade to C# 12 and .NET 8 SDK analyzers by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2523](https://redirect.github.com/fluentassertions/fluentassertions/pull/2523)
+- ReportGenerator 5.1.23 -&gt; 5.2.0 by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2525](https://redirect.github.com/fluentassertions/fluentassertions/pull/2525)
+- Bump Meziantou.Analyzer from 2.0.123 to 2.0.127 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2527](https://redirect.github.com/fluentassertions/fluentassertions/pull/2527)
+- Bump cspell from 8.1.3 to 8.2.3 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2528](https://redirect.github.com/fluentassertions/fluentassertions/pull/2528)
+- Cleanups by [@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2529](https://redirect.github.com/fluentassertions/fluentassertions/pull/2529)
+- Bump Bogus from 35.0.1 to 35.2.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2533](https://redirect.github.com/fluentassertions/fluentassertions/pull/2533)
+- Bump cspell from 8.2.3 to 8.3.1 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2531](https://redirect.github.com/fluentassertions/fluentassertions/pull/2531)
+- Collection expressions, spread operator and Tuple.Create by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2524](https://redirect.github.com/fluentassertions/fluentassertions/pull/2524)
+- Bump Meziantou.Analyzer from 2.0.127 to 2.0.132 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2534](https://redirect.github.com/fluentassertions/fluentassertions/pull/2534)
+- Bump cspell to 8.3.2 by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2537](https://redirect.github.com/fluentassertions/fluentassertions/pull/2537)
+- Ignore `yarn install` errors by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2538](https://redirect.github.com/fluentassertions/fluentassertions/pull/2538)
+- Avoid redundancies in code by
+[@&amp;#8203;vbreuss](https://redirect.github.com/vbreuss) in
+[https://github.com/fluentassertions/fluentassertions/pull/2470](https://redirect.github.com/fluentassertions/fluentassertions/pull/2470)
+- Added an extra assertion engine initializer that throws for extra
+coverage by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2542](https://redirect.github.com/fluentassertions/fluentassertions/pull/2542)
+- Bump Bogus from 35.2.0 to 35.3.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2547](https://redirect.github.com/fluentassertions/fluentassertions/pull/2547)
+- Bump Meziantou.Analyzer from 2.0.132 to 2.0.135 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2548](https://redirect.github.com/fluentassertions/fluentassertions/pull/2548)
+- Bump Roslynator.Analyzers from 4.7.0 to 4.8.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pull/2549](https://redirect.github.com/fluentassertions/fluentassertions/pull/2549)
+- Update Nuget packages by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2550](https://redirect.github.com/fluentassertions/fluentassertions/pull/2550)
+- Add CodeQL scanning by
+[@&amp;#8203;jnyrup](https://redirect.github.com/jnyrup) in
+[https://github.com/fluentassertions/fluentassertions/pull/2551](https://redirect.github.com/fluentassertions/fluentassertions/pull/2551)
+- Update qodana.yaml to limit target frameworks by
+[@&amp;#8203;hybloid](https://redirect.github.com/hybloid) in
+[https://github.com/fluentassertions/fluentassertions/pull/2515](https://redirect.github.com/fluentassertions/fluentassertions/pull/2515)
+- Simplify the API approval test by
+[@&amp;#8203;0xced](https://redirect.github.com/0xced) in
+[https://github.com/fluentassertions/fluentassertions/pull/2554](https://redirect.github.com/fluentassertions/fluentassertions/pull/2554)
+- Address various Qodana issues to bring the threshold back to 0 by
+[@&amp;#8203;dennisdoomen](https://redirect.github.com/dennisdoomen) in
+[https://github.com/fluentassertions/fluentassertions/pull/2553](https://redirect.github.com/fluentassertions/fluentassertions/pull/2553)
+- Switch from `yarn` to `npm` by
+[@&amp;#8203;IT-VBFK](https://redirect.github.com/IT-VBFK) in
+[https://github.com/fluentassertions/fluentassertions/pull/2545](https://redirect.github.com/fluentassertions/fluentassertions/pull/2545)
+- Disable `npm` update notification by
+[@&amp;#8203;ITaluone](https://redirect.github.com/ITaluone) in
+[https://github.com/fluentassertions/fluentassertions/pull/2561](https://redirect.github.com/fluentassertions/fluentassertions/pull/2561)
+- Bump Bogus from 35.3.0 to 35.4.0 by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/fluentassertions/fluentassertions/pu
+
+&lt;/details&gt;
+
+---
+
+### Configuration
+
+📅 **Schedule**: Branch creation - At any time (no schedule defined),
+Automerge - At any time (no schedule defined).
+
+🚦 **Automerge**: Disabled by config. Please merge this manually once you
+are satisfied.
+
+♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
+rebase/retry checkbox.
+
+🔕 **Ignore**: Close this PR and you won't be reminded about this update
+again.
+
+---
+
+- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
+this box
+
+---
+
+This PR was generated by [Mend Renovate](https://mend.io/renovate/).
+View the [repository job
+log](https://developer.mend.io/github/reactiveui/ReactiveUI).
+
+&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzOS4xMjUuMSIsInVwZGF0ZWRJblZlciI6IjM5LjEyNS4xIiwidGFyZ2V0QnJhbmNoIjoibWFpbiIsImxhYmVscyI6WyJEZXBlbmRlbmN5IE1hbmFnZW1lbnQiXX0=--&gt;
 
 Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
                                     </div>
@@ -291,9 +1081,9 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">renovate/major-dotnet-monorepo</span>
+                                        <span class="code">renovate/fluentassertions-8.x</span>
                                         in
-                                        <span class="repo">reactivemarbles/CacheDatabase</span>
+                                        <span class="repo">reactiveui/ReactiveUI</span>
                                     </div>
                                 </div>
                             </section>
@@ -306,12 +1096,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#272 chore(deps): update dotnet monorepo to v9 (major)</span>
+                                        <span class="issue">#3950 chore(deps): update dependency fluentassertions to v8</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">reactivemarbles/CacheDatabase</span></div>
-                                    <div>2 files changed <span class="code">++2 --2</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">reactiveui/ReactiveUI</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -323,11 +1113,11 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#272 chore(deps): update dotnet monorepo to v9 (major)</span>
+                                        <span class="issue">#3950 chore(deps): update dependency fluentassertions to v8</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">reactivemarbles/CacheDatabase</span></div>
+                                    <div>opened by renovate[bot] in <span class="repo">reactiveui/ReactiveUI</span></div>
                                 </div>
                             </section>
                         </div>
@@ -335,20 +1125,14 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">reactiveui/Sextant</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#cdfe8ed</div>
-                                        <div class="message">chore(deps): update dependency diffengine to 15.8.0 (#830)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                        Deleted
+                      branch
+                                        <span class="code">UpdatePackages</span>
+                                        in
+                                        <span class="repo">reactivemarbles/CrissCross</span>
                                     </div>
                                 </div>
                             </section>
@@ -358,7 +1142,7 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2025, 01:26:41 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Jan 2025, 01:25:26 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
