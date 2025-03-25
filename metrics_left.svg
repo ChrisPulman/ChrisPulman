@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="830" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="863" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.label,.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;border-radius:32px;font-size:12px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,20 +30,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,13 +82,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3244 Commits
+                            3245 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            1852 Pull requests reviewed
+                            1855 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -264,12 +264,71 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#118 Update dependency Roslynator.Analyzers to 4.13.1</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by renovate[bot] in <span class="repo">ChrisPulman/ModbusRx</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ChrisPulman/ModbusRx</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b5063cb</div>
+                                        <div class="message">Merge pull request #119 from ChrisPulman/renovate/xunit.runner.visualstudio-3.x
+
+Update dependency xunit.runner.visualstudio to 3.0.2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e079942</div>
+                                        <div class="message">Update dependency xunit.runner.visualstudio to 3.0.2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#119 Update dependency xunit.runner.visualstudio to 3.0.2</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by renovate[bot] in <span class="repo">ChrisPulman/ModbusRx</span></div>
+                                    <div>1 file changed <span class="code">++1 --1</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">renovate/dynamicdata-9.x</span>
+                                        <span class="code">renovate/dotnet-monorepo</span>
                                         in
                                         <span class="repo">reactiveui/ReactiveUI</span>
                                     </div>
@@ -290,23 +349,66 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#049a5a3</div>
-                                        <div class="message">chore(deps): update dependency dynamicdata to 9.2.1 (#4001)
+                                        <div class="sha">#43b3976</div>
+                                        <div class="message">chore(deps): update dotnet monorepo (#4000)
 
 This PR contains the following updates:
 
 | Package | Change | Age | Adoption | Passing | Confidence |
 |---|---|---|---|---|---|
-| [DynamicData](http://dynamic-data.org/)
-([source](https://redirect.github.com/reactiveui/DynamicData)) | `9.1.2`
--&gt; `9.2.1` |
-[![age](https://developer.mend.io/api/mc/badges/age/nuget/DynamicData/9.2.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+| [Microsoft.AspNetCore.Components](https://asp.net/)
+([source](https://redirect.github.com/dotnet/aspnetcore)) | `9.0.2` -&gt;
+`9.0.3` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.AspNetCore.Components/9.0.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
 |
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/DynamicData/9.2.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.AspNetCore.Components/9.0.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
 |
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/DynamicData/9.1.2/9.2.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.AspNetCore.Components/9.0.2/9.0.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
 |
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/DynamicData/9.1.2/9.2.1?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.AspNetCore.Components/9.0.2/9.0.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+| [Microsoft.AspNetCore.Components](https://asp.net/)
+([source](https://redirect.github.com/dotnet/aspnetcore)) | `8.0.13` -&gt;
+`8.0.14` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.AspNetCore.Components/8.0.14?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.AspNetCore.Components/8.0.14?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.AspNetCore.Components/8.0.13/8.0.14?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.AspNetCore.Components/8.0.13/8.0.14?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+| [Microsoft.Maui.Controls](https://redirect.github.com/dotnet/maui) |
+`9.0.40` -&gt; `9.0.50` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.Maui.Controls/9.0.50?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.Maui.Controls/9.0.50?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.Maui.Controls/9.0.40/9.0.50?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.Maui.Controls/9.0.40/9.0.50?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+|
+[Microsoft.Maui.Controls.Compatibility](https://redirect.github.com/dotnet/maui)
+| `9.0.40` -&gt; `9.0.50` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/Microsoft.Maui.Controls.Compatibility/9.0.50?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/Microsoft.Maui.Controls.Compatibility/9.0.50?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/Microsoft.Maui.Controls.Compatibility/9.0.40/9.0.50?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/Microsoft.Maui.Controls.Compatibility/9.0.40/9.0.50?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+| [System.Text.Json](https://dot.net/)
+([source](https://redirect.github.com/dotnet/runtime)) | `9.0.2` -&gt;
+`9.0.3` |
+[![age](https://developer.mend.io/api/mc/badges/age/nuget/System.Text.Json/9.0.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![adoption](https://developer.mend.io/api/mc/badges/adoption/nuget/System.Text.Json/9.0.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![passing](https://developer.mend.io/api/mc/badges/compatibility/nuget/System.Text.Json/9.0.2/9.0.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
+|
+[![confidence](https://developer.mend.io/api/mc/badges/confidence/nuget/System.Text.Json/9.0.2/9.0.3?slim=true)](https://docs.renovatebot.com/merge-confidence/)
 |
 
 ---
@@ -314,26 +416,787 @@ This PR contains the following updates:
 ### Release Notes
 
 &lt;details&gt;
-&lt;summary&gt;reactiveui/DynamicData (DynamicData)&lt;/summary&gt;
+&lt;summary&gt;dotnet/aspnetcore (Microsoft.AspNetCore.Components)&lt;/summary&gt;
 
 ###
-[`v9.2.1`](https://redirect.github.com/reactivemarbles/DynamicData/releases/tag/9.2.1)
+[`v9.0.3`](https://redirect.github.com/dotnet/aspnetcore/releases/tag/v9.0.3):
+.NET 9.0.3
+
+[Release](https://redirect.github.com/dotnet/core/releases/tag/v9.0.3)
+
+#### What's Changed
+
+- Update branding to 9.0.3 by
+[@&amp;#8203;vseanreesermsft](https://redirect.github.com/vseanreesermsft)
+in
+[https://github.com/dotnet/aspnetcore/pull/60198](https://redirect.github.com/dotnet/aspnetcore/pull/60198)
+- \[release/9.0] Fix branding by
+[@&amp;#8203;wtgodbe](https://redirect.github.com/wtgodbe) in
+[https://github.com/dotnet/aspnetcore/pull/60029](https://redirect.github.com/dotnet/aspnetcore/pull/60029)
+- \[release/9.0] Update to MacOS 15 in Helix by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/aspnetcore/pull/60238](https://redirect.github.com/dotnet/aspnetcore/pull/60238)
+- \[release/9.0] Revert "Revert "Use the latest available jdk"" by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/aspnetcore/pull/60229](https://redirect.github.com/dotnet/aspnetcore/pull/60229)
+- \[release/9.0] Update `HtmlAttributePropertyHelper` to correctly
+follow the `MetadataUpdateHandlerAttribute` contract by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/aspnetcore/pull/59908](https://redirect.github.com/dotnet/aspnetcore/pull/59908)
+- \[release/9.0] Fix skip condition for java tests by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/aspnetcore/pull/60242](https://redirect.github.com/dotnet/aspnetcore/pull/60242)
+- \[release/9.0] (deps): Bump src/submodules/googletest from `7d76a23`
+to `e235eb3` by
+[@&amp;#8203;dependabot](https://redirect.github.com/dependabot) in
+[https://github.com/dotnet/aspnetcore/pull/60151](https://redirect.github.com/dotnet/aspnetcore/pull/60151)
+- \[release/9.0] Readd DiagnosticSource to KestrelServerImpl by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/aspnetcore/pull/60202](https://redirect.github.com/dotnet/aspnetcore/pull/60202)
+- \[release/9.0] Redis distributed cache: add HybridCache usage signal
+by [@&amp;#8203;github-actions](https://redirect.github.com/github-actions)
+in
+[https://github.com/dotnet/aspnetcore/pull/59886](https://redirect.github.com/dotnet/aspnetcore/pull/59886)
+- \[release/9.0] Update dependencies from dotnet/arcade by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/aspnetcore/pull/59952](https://redirect.github.com/dotnet/aspnetcore/pull/59952)
+- \[release/9.0] Update dependencies from dotnet/extensions by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/aspnetcore/pull/59951](https://redirect.github.com/dotnet/aspnetcore/pull/59951)
+- \[release/9.0] Update remnants of azureedge.net by
+[@&amp;#8203;sebastienros](https://redirect.github.com/sebastienros) in
+[https://github.com/dotnet/aspnetcore/pull/60263](https://redirect.github.com/dotnet/aspnetcore/pull/60263)
+- \[release/9.0] Update dependencies from dotnet/extensions by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/aspnetcore/pull/60291](https://redirect.github.com/dotnet/aspnetcore/pull/60291)
+- \[release/9.0] Centralize on one docker container by
+[@&amp;#8203;wtgodbe](https://redirect.github.com/wtgodbe) in
+[https://github.com/dotnet/aspnetcore/pull/60298](https://redirect.github.com/dotnet/aspnetcore/pull/60298)
+- Revert "\[release/9.0] Update remnants of azureedge.net" by
+[@&amp;#8203;wtgodbe](https://redirect.github.com/wtgodbe) in
+[https://github.com/dotnet/aspnetcore/pull/60323](https://redirect.github.com/dotnet/aspnetcore/pull/60323)
+- Merging internal commits for release/9.0 by
+[@&amp;#8203;vseanreesermsft](https://redirect.github.com/vseanreesermsft)
+in
+[https://github.com/dotnet/aspnetcore/pull/60317](https://redirect.github.com/dotnet/aspnetcore/pull/60317)
+
+**Full Changelog**:
+https://github.com/dotnet/aspnetcore/compare/v9.0.2...v9.0.3
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;dotnet/maui (Microsoft.Maui.Controls)&lt;/summary&gt;
+
+###
+[`v9.0.50`](https://redirect.github.com/dotnet/maui/releases/tag/9.0.50):
+SR5
 
 [Compare
-Source](https://redirect.github.com/reactiveui/DynamicData/compare/9.1.2...9.2.1)
+Source](https://redirect.github.com/dotnet/maui/compare/9.0.40...9.0.50)
 
-#### Other:
+#### Breaking Changes
 
+- Change iOS SetNeedsLayout propagation mechanism by
+[@&amp;#8203;albyrock87](https://redirect.github.com/albyrock87) in
+[https://github.com/dotnet/maui/pull/26629](https://redirect.github.com/dotnet/maui/pull/26629)
+- Overriding SetNeedsLayout on MauiView to short-circuit invalidation
+propagation will no longer work. We will be looking into a way to still
+provide this behavior, if necessary, in an upcoming PR, and will be
+watching closely for any potential issues that may arise.
+- Improve PropertyMapper performance by
+[@&amp;#8203;albyrock87](https://redirect.github.com/albyrock87) in
+[https://github.com/dotnet/maui/pull/28077](https://redirect.github.com/dotnet/maui/pull/28077)
+- This PR will change the ordering of some of the mappers. In theory,
+mapper ordering shouldn't really matter, but occasionally, issues with
+ordering do tend to creep in.
+
+#### Highlights
+
+- Improve PropertyMapper performance by
+[@&amp;#8203;albyrock87](https://redirect.github.com/albyrock87) in
+[https://github.com/dotnet/maui/pull/28077](https://redirect.github.com/dotnet/maui/pull/28077)
+- Update SkiaSharp by
+[@&amp;#8203;mattleibow](https://redirect.github.com/mattleibow) in
+[https://github.com/dotnet/maui/pull/26373](https://redirect.github.com/dotnet/maui/pull/26373)
+- Change iOS SetNeedsLayout propagation mechanism by
+[@&amp;#8203;albyrock87](https://redirect.github.com/albyrock87) in
+[https://github.com/dotnet/maui/pull/26629](https://redirect.github.com/dotnet/maui/pull/26629)
+
+#### What's Changed
+
+- Update the version of SkiaSharp used by SVG by
+[@&amp;#8203;mattleibow](https://redirect.github.com/mattleibow) in
+[https://github.com/dotnet/maui/pull/28233](https://redirect.github.com/dotnet/maui/pull/28233)
+- Adds very basic CSS support for Border by
+[@&amp;#8203;sthewissen](https://redirect.github.com/sthewissen) in
+[https://github.com/dotnet/maui/pull/27529](https://redirect.github.com/dotnet/maui/pull/27529)
+- Update comments by
+[@&amp;#8203;APoukar](https://redirect.github.com/APoukar) in
+[https://github.com/dotnet/maui/pull/27658](https://redirect.github.com/dotnet/maui/pull/27658)
+- \[iOS] Added PermissionStatus.Limited for Contacts by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27694](https://redirect.github.com/dotnet/maui/pull/27694)
+- Adds CSS support for shadows and a simpler way of defining shadows in
+XAML by [@&amp;#8203;sthewissen](https://redirect.github.com/sthewissen) in
+[https://github.com/dotnet/maui/pull/27180](https://redirect.github.com/dotnet/maui/pull/27180)
+- Fix the Collection view empty view not fill the vertical space by
+[@&amp;#8203;Shalini-Ashokan](https://redirect.github.com/Shalini-Ashokan)
+in
+[https://github.com/dotnet/maui/pull/27464](https://redirect.github.com/dotnet/maui/pull/27464)
+- \[Windows] Upgrade Windows App SDK from 1.6.4 to 1.6.5 by
+[@&amp;#8203;MartyIX](https://redirect.github.com/MartyIX) in
+[https://github.com/dotnet/maui/pull/27729](https://redirect.github.com/dotnet/maui/pull/27729)
+- \[Windows] Fix for SearchHandler.Focused and Unfocused event never
+fires by
+[@&amp;#8203;BagavathiPerumal](https://redirect.github.com/BagavathiPerumal)
+in
+[https://github.com/dotnet/maui/pull/27577](https://redirect.github.com/dotnet/maui/pull/27577)
+- \[Android] Fix Cursor Not Closing in File Picker to Prevent Log Spam.
+by [@&amp;#8203;bhavanesh2001](https://redirect.github.com/bhavanesh2001) in
+[https://github.com/dotnet/maui/pull/27718](https://redirect.github.com/dotnet/maui/pull/27718)
+- \[Android] Fixed the SoftInputMode issues with modal pages by
+[@&amp;#8203;Ahamed-Ali](https://redirect.github.com/Ahamed-Ali) in
+[https://github.com/dotnet/maui/pull/27553](https://redirect.github.com/dotnet/maui/pull/27553)
+- \[iOS] Fix Gray Line Appears on the Right Side of GraphicsView with
+Decimal WidthRequest by
+[@&amp;#8203;devanathan-vaithiyanathan](https://redirect.github.com/devanathan-vaithiyanathan)
+in
+[https://github.com/dotnet/maui/pull/26368](https://redirect.github.com/dotnet/maui/pull/26368)
+- Page cannot scroll to the bottom while using RoundRectangle by
+[@&amp;#8203;Dhivya-SF4094](https://redirect.github.com/Dhivya-SF4094) in
+[https://github.com/dotnet/maui/pull/27451](https://redirect.github.com/dotnet/maui/pull/27451)
+- \[iOS] Fix ShellContent Title Does Not Update at Runtime by
+[@&amp;#8203;devanathan-vaithiyanathan](https://redirect.github.com/devanathan-vaithiyanathan)
+in
+[https://github.com/dotnet/maui/pull/26062](https://redirect.github.com/dotnet/maui/pull/26062)
+- Fixed \[iOS] Navigation breaks when modal pages use PageSheet by
+[@&amp;#8203;NanthiniMahalingam](https://redirect.github.com/NanthiniMahalingam)
+in
+[https://github.com/dotnet/maui/pull/27765](https://redirect.github.com/dotnet/maui/pull/27765)
+- BarBackground with Brush in TabbedPage on theme change by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/24425](https://redirect.github.com/dotnet/maui/pull/24425)
+- \[iOS] Using long-press navigation on back button with shell pages -
+fix by [@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/24003](https://redirect.github.com/dotnet/maui/pull/24003)
+- Fix for DatePicker displays incorrect date selection when navigating
+to next month. by
+[@&amp;#8203;BagavathiPerumal](https://redirect.github.com/BagavathiPerumal)
+in
+[https://github.com/dotnet/maui/pull/26064](https://redirect.github.com/dotnet/maui/pull/26064)
+- Fixed Unnecessary SizeChanged Event Triggering by
+[@&amp;#8203;Dhivya-SF4094](https://redirect.github.com/Dhivya-SF4094) in
+[https://github.com/dotnet/maui/pull/27476](https://redirect.github.com/dotnet/maui/pull/27476)
+- \[Essentials] Longitude Validation by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27784](https://redirect.github.com/dotnet/maui/pull/27784)
+- Fixed latitude-&gt;longitude typo by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27834](https://redirect.github.com/dotnet/maui/pull/27834)
+- \[iOS] CollectionView with header or footer has incorrect height - fix
+by [@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27809](https://redirect.github.com/dotnet/maui/pull/27809)
+- \[iOS] Fixed the Application crash when ToolbarItem is created with
+invalid IconImageSource name by
+[@&amp;#8203;Ahamed-Ali](https://redirect.github.com/Ahamed-Ali) in
+[https://github.com/dotnet/maui/pull/27175](https://redirect.github.com/dotnet/maui/pull/27175)
+- \[Android] Fix app crash caused by dynamic template switching in
+ListView by
+[@&amp;#8203;BagavathiPerumal](https://redirect.github.com/BagavathiPerumal)
+in
+[https://github.com/dotnet/maui/pull/24808](https://redirect.github.com/dotnet/maui/pull/24808)
+- Fixed Toolbar IconImageSource not updating with Binding Changes by
+[@&amp;#8203;NirmalKumarYuvaraj](https://redirect.github.com/NirmalKumarYuvaraj)
+in
+[https://github.com/dotnet/maui/pull/27402](https://redirect.github.com/dotnet/maui/pull/27402)
+- \[iOS] Fixed a crash in CarouselViewHandler2 on iOS 15. by
+[@&amp;#8203;Ahamed-Ali](https://redirect.github.com/Ahamed-Ali) in
+[https://github.com/dotnet/maui/pull/27871](https://redirect.github.com/dotnet/maui/pull/27871)
+- \[Android] Android: Native View not set exception on modal page - fix
+by [@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27891](https://redirect.github.com/dotnet/maui/pull/27891)
+- \[iOS/MacCatalyst] Use newer API in FilePicker by
+[@&amp;#8203;MartyIX](https://redirect.github.com/MartyIX) in
+[https://github.com/dotnet/maui/pull/27521](https://redirect.github.com/dotnet/maui/pull/27521)
+- \[Android] Map FlowDirection of shell to PlatformView on Android by
+[@&amp;#8203;mohsenbgi](https://redirect.github.com/mohsenbgi) in
+[https://github.com/dotnet/maui/pull/23473](https://redirect.github.com/dotnet/maui/pull/23473)
+- Mark VerifyInitialEntryReturnTypeChange and
+VerifyGraphicsViewWithoutGrayLine tests as flaky by
+[@&amp;#8203;jfversluis](https://redirect.github.com/jfversluis) in
+[https://github.com/dotnet/maui/pull/27776](https://redirect.github.com/dotnet/maui/pull/27776)
+- Fix CSS Hot Reload - Handle fingerprint when hot reloading scoped CSS
+bundles by [@&amp;#8203;spadapet](https://redirect.github.com/spadapet) in
+[https://github.com/dotnet/maui/pull/27788](https://redirect.github.com/dotnet/maui/pull/27788)
+- \[iOS] CV1's footer doesn't increase its size - fix by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27979](https://redirect.github.com/dotnet/maui/pull/27979)
+- \[iOS] CollectionView 1's doesn't adjust its offset when resizing a
+footer by [@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27963](https://redirect.github.com/dotnet/maui/pull/27963)
+- \[Android] Properly Resolve File Paths in FilePicker When
+MANAGE_EXTERNAL_STORAGE is Granted by
+[@&amp;#8203;bhavanesh2001](https://redirect.github.com/bhavanesh2001) in
+[https://github.com/dotnet/maui/pull/27975](https://redirect.github.com/dotnet/maui/pull/27975)
+- \[ci] Publish workload VS insertion zips by
+[@&amp;#8203;pjcollins](https://redirect.github.com/pjcollins) in
+[https://github.com/dotnet/maui/pull/28016](https://redirect.github.com/dotnet/maui/pull/28016)
+- \[Android] Fix crash starting the swipe on SwipeView inside
+CollectionView by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/27669](https://redirect.github.com/dotnet/maui/pull/27669)
+- Applying visibility change to child controls by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/20154](https://redirect.github.com/dotnet/maui/pull/20154)
+- Fixed CheckBox enabled color is not updated properly by
+[@&amp;#8203;NanthiniMahalingam](https://redirect.github.com/NanthiniMahalingam)
+in
+[https://github.com/dotnet/maui/pull/26399](https://redirect.github.com/dotnet/maui/pull/26399)
+- Update DEVELOPMENT.md to clarify .NET SDK version needed by
+[@&amp;#8203;jfversluis](https://redirect.github.com/jfversluis) in
+[https://github.com/dotnet/maui/pull/28031](https://redirect.github.com/dotnet/maui/pull/28031)
+- \[android] move `IsDispatchRequiredImplementation()` to Java by
+[@&amp;#8203;jonathanpeppers](https://redirect.github.com/jonathanpeppers)
+in
+[https://github.com/dotnet/maui/pull/27936](https://redirect.github.com/dotnet/maui/pull/27936)
+- remove Dispose call on ShellItemRenderer by
+[@&amp;#8203;pictos](https://redirect.github.com/pictos) in
+[https://github.com/dotnet/maui/pull/27890](https://redirect.github.com/dotnet/maui/pull/27890)
+- \[BindingSG] Added Binding.Create support for xaml generated sources
+by [@&amp;#8203;jkurdek](https://redirect.github.com/jkurdek) in
+[https://github.com/dotnet/maui/pull/27610](https://redirect.github.com/dotnet/maui/pull/27610)
+- add DebuggerTypeProxy for Shell by
+[@&amp;#8203;pictos](https://redirect.github.com/pictos) in
+[https://github.com/dotnet/maui/pull/27989](https://redirect.github.com/dotnet/maui/pull/27989)
+- \[Windows] Fixed NRE when clearing ListView after navigating back by
+[@&amp;#8203;SubhikshaSf4851](https://redirect.github.com/SubhikshaSf4851)
+in
+[https://github.com/dotnet/maui/pull/27274](https://redirect.github.com/dotnet/maui/pull/27274)
+- \[Windows] Fix for issues caused by setting Shell.FlyoutWidth on WinUI
+when binding context values are changed by
+[@&amp;#8203;Tamilarasan-Paranthaman](https://redirect.github.com/Tamilarasan-Paranthaman)
+in
+[https://github.com/dotnet/maui/pull/27151](https://redirect.github.com/dotnet/maui/pull/27151)
+- \[code style] Prefer file-scope namespaces by
+[@&amp;#8203;MartyIX](https://redirect.github.com/MartyIX) in
+[https://github.com/dotnet/maui/pull/28040](https://redirect.github.com/dotnet/maui/pull/28040)
+- \[MacCatalyst] Picker focus events by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27973](https://redirect.github.com/dotnet/maui/pull/27973)
+- \[Android] Fixed the ScrollbarVisibility issues by
+[@&amp;#8203;Ahamed-Ali](https://redirect.github.com/Ahamed-Ali) in
+[https://github.com/dotnet/maui/pull/27613](https://redirect.github.com/dotnet/maui/pull/27613)
+- Fixed FontImageSource icon color does not change in the TabbedPage
+when dynamically updated. by
+[@&amp;#8203;NirmalKumarYuvaraj](https://redirect.github.com/NirmalKumarYuvaraj)
+in
+[https://github.com/dotnet/maui/pull/27742](https://redirect.github.com/dotnet/maui/pull/27742)
+- \[iOS] Fixed ImageButton not honoring Padding value. by
+[@&amp;#8203;NirmalKumarYuvaraj](https://redirect.github.com/NirmalKumarYuvaraj)
+in
+[https://github.com/dotnet/maui/pull/26785](https://redirect.github.com/dotnet/maui/pull/26785)
+- \[Windows] Optimize formatted labels by
+[@&amp;#8203;MartyIX](https://redirect.github.com/MartyIX) in
+[https://github.com/dotnet/maui/pull/28073](https://redirect.github.com/dotnet/maui/pull/28073)
+- IsNullOrEmpty for Paint not returning true if Color(s) are not set by
+[@&amp;#8203;mos379](https://redirect.github.com/mos379) in
+[https://github.com/dotnet/maui/pull/15668](https://redirect.github.com/dotnet/maui/pull/15668)
+- \[Windows] Bump `Microsoft.Web.WebView2` from `1.0.2792.45` to
+`1.0.2903.40` by [@&amp;#8203;MartyIX](https://redirect.github.com/MartyIX)
+in
+[https://github.com/dotnet/maui/pull/24329](https://redirect.github.com/dotnet/maui/pull/24329)
+- \[Android] \[Shell] Ensure `AnimationFinished` is called when app
+backgrounds mid-animation by
+[@&amp;#8203;albyrock87](https://redirect.github.com/albyrock87) in
+[https://github.com/dotnet/maui/pull/27534](https://redirect.github.com/dotnet/maui/pull/27534)
+- \[ci] Publish VS workload zips by
+[@&amp;#8203;pjcollins](https://redirect.github.com/pjcollins) in
+[https://github.com/dotnet/maui/pull/28145](https://redirect.github.com/dotnet/maui/pull/28145)
+- Start shipping WorkloadDependencies.json by
+[@&amp;#8203;Redth](https://redirect.github.com/Redth) in
+[https://github.com/dotnet/maui/pull/28149](https://redirect.github.com/dotnet/maui/pull/28149)
+- Fixed the CollectionView scroll the content inside Editor when tapping
+to get focus on it by
+[@&amp;#8203;NanthiniMahalingam](https://redirect.github.com/NanthiniMahalingam)
+in
+[https://github.com/dotnet/maui/pull/27851](https://redirect.github.com/dotnet/maui/pull/27851)
+- \[android] add AOT profile for `dotnet new maui -sc` by
+[@&amp;#8203;jonathanpeppers](https://redirect.github.com/jonathanpeppers)
+in
+[https://github.com/dotnet/maui/pull/28172](https://redirect.github.com/dotnet/maui/pull/28172)
+- \[Bindings SG] Filter out false positive Binding.Create matches by
+[@&amp;#8203;jkurdek](https://redirect.github.com/jkurdek) in
+[https://github.com/dotnet/maui/pull/28138](https://redirect.github.com/dotnet/maui/pull/28138)
+- Fix CSS Hot Reload on iOS device by
+[@&amp;#8203;spadapet](https://redirect.github.com/spadapet) in
+[https://github.com/dotnet/maui/pull/27812](https://redirect.github.com/dotnet/maui/pull/27812)
+- Fix Crashing issue with keyboard scrolling iOS by
+[@&amp;#8203;tj-devel709](https://redirect.github.com/tj-devel709) in
+[https://github.com/dotnet/maui/pull/28148](https://redirect.github.com/dotnet/maui/pull/28148)
+- Revert "Fix FlyoutPage ShouldShowToolbarButton when overridden to
+return false, still shows button in title bar" by
+[@&amp;#8203;NirmalKumarYuvaraj](https://redirect.github.com/NirmalKumarYuvaraj)
+in
+[https://github.com/dotnet/maui/pull/28189](https://redirect.github.com/dotnet/maui/pull/28189)
+- Fixed Navigation Toolbar Visibility Issue on Dynamic Flyout Reset in
+FlyoutPage. by
+[@&amp;#8203;prakashKannanSf3972](https://redirect.github.com/prakashKannanSf3972)
+in
+[https://github.com/dotnet/maui/pull/28209](https://redirect.github.com/dotnet/maui/pull/28209)
+- \[CollectionView] Crash occurs when switching CollectionView.IsVisible
+right after setting ItemsSource by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/28194](https://redirect.github.com/dotnet/maui/pull/28194)
+- Fix NullReferenceException in PaintExtensions.IsSolid on Android by
+[@&amp;#8203;jadenrogers](https://redirect.github.com/jadenrogers) in
+[https://github.com/dotnet/maui/pull/28116](https://redirect.github.com/dotnet/maui/pull/28116)
+- \[HybridWebView] Properly managed response streams by
+[@&amp;#8203;mattleibow](https://redirect.github.com/mattleibow) in
+[https://github.com/dotnet/maui/pull/28230](https://redirect.github.com/dotnet/maui/pull/28230)
+- Replace deprecated iOS OpenUrl by
+[@&amp;#8203;jfversluis](https://redirect.github.com/jfversluis) in
+[https://github.com/dotnet/maui/pull/28160](https://redirect.github.com/dotnet/maui/pull/28160)
+- Patch in a temporary location by
+[@&amp;#8203;mattleibow](https://redirect.github.com/mattleibow) in
+[https://github.com/dotnet/maui/pull/28278](https://redirect.github.com/dotnet/maui/pull/28278)
+- Add attempt number to failed builds by
+[@&amp;#8203;mattleibow](https://redirect.github.com/mattleibow) in
+[https://github.com/dotnet/maui/pull/28280](https://redirect.github.com/dotnet/maui/pull/28280)
+- \[HybridWebView] Always complete web requests by
+[@&amp;#8203;mattleibow](https://redirect.github.com/mattleibow) in
+[https://github.com/dotnet/maui/pull/28286](https://redirect.github.com/dotnet/maui/pull/28286)
+- Check if RefreshControl is enabled on iOS by
+[@&amp;#8203;PureWeen](https://redirect.github.com/PureWeen) in
+[https://github.com/dotnet/maui/pull/28360](https://redirect.github.com/dotnet/maui/pull/28360)
+
+#### Localization
+
+- Localized file check-in by OneLocBuild Task: Build definition ID
+13330: Build ID
+[`1106447`](https://redirect.github.com/dotnet/maui/commit/11064473) by
+[@&amp;#8203;dotnet-bot](https://redirect.github.com/dotnet-bot) in
+[https://github.com/dotnet/maui/pull/27982](https://redirect.github.com/dotnet/maui/pull/27982)
+- Localized file check-in by OneLocBuild Task: Build definition ID
+13330: Build ID
+[`1102946`](https://redirect.github.com/dotnet/maui/commit/11029468) by
+[@&amp;#8203;dotnet-bot](https://redirect.github.com/dotnet-bot) in
+[https://github.com/dotnet/maui/pull/27789](https://redirect.github.com/dotnet/maui/pull/27789)
+- \[Localization] Add Localization tests and other fixes by
+[@&amp;#8203;tj-devel709](https://redirect.github.com/tj-devel709) in
+[https://github.com/dotnet/maui/pull/25620](https://redirect.github.com/dotnet/maui/pull/25620)
+- LEGO: Pull request from
+lego/hb\_7241b85a-f216-4d55-a9fa-d8030c736df5\_20250219211456120 to main
+by [@&amp;#8203;csigs](https://redirect.github.com/csigs) in
+[https://github.com/dotnet/maui/pull/27915](https://redirect.github.com/dotnet/maui/pull/27915)
+- Add ISO information to Locale API documentation by
+[@&amp;#8203;jfversluis](https://redirect.github.com/jfversluis) in
+[https://github.com/dotnet/maui/pull/27746](https://redirect.github.com/dotnet/maui/pull/27746)
+
+#### Testing
+
+- Add test run message to device tests logs by
+[@&amp;#8203;albyrock87](https://redirect.github.com/albyrock87) in
+[https://github.com/dotnet/maui/pull/27993](https://redirect.github.com/dotnet/maui/pull/27993)
+- Fix broken/unreliable UI tests by
+[@&amp;#8203;albyrock87](https://redirect.github.com/albyrock87) in
+[https://github.com/dotnet/maui/pull/28125](https://redirect.github.com/dotnet/maui/pull/28125)
+- \[Testing] Enabling UITest Stepper actions for Maccatalyst by
+[@&amp;#8203;LogishaSelvarajSF4525](https://redirect.github.com/LogishaSelvarajSF4525)
+in
+[https://github.com/dotnet/maui/pull/28055](https://redirect.github.com/dotnet/maui/pull/28055)
+- \[Testing] Fix for flaky UITests in CI that occasionally fail - 4 by
+[@&amp;#8203;HarishKumarSF4517](https://redirect.github.com/HarishKumarSF4517)
+in
+[https://github.com/dotnet/maui/pull/28137](https://redirect.github.com/dotnet/maui/pull/28137)
+- 2025-3-3-docs-UiTesting.md-improvements by
+[@&amp;#8203;BrayanKhosravian](https://redirect.github.com/BrayanKhosravian)
+in
+[https://github.com/dotnet/maui/pull/28143](https://redirect.github.com/dotnet/maui/pull/28143)
+- Fix incorrect MAC Image by
+[@&amp;#8203;PureWeen](https://redirect.github.com/PureWeen) in
+[https://github.com/dotnet/maui/pull/28265](https://redirect.github.com/dotnet/maui/pull/28265)
+- \[test] Run Android device tests on linux by
+[@&amp;#8203;rmarinho](https://redirect.github.com/rmarinho) in
+[https://github.com/dotnet/maui/pull/28192](https://redirect.github.com/dotnet/maui/pull/28192)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 16 by
+[@&amp;#8203;TamilarasanSF4853](https://redirect.github.com/TamilarasanSF4853)
+in
+[https://github.com/dotnet/maui/pull/27968](https://redirect.github.com/dotnet/maui/pull/27968)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 17 by
+[@&amp;#8203;HarishKumarSF4517](https://redirect.github.com/HarishKumarSF4517)
+in
+[https://github.com/dotnet/maui/pull/28011](https://redirect.github.com/dotnet/maui/pull/28011)
+- \[Testing] Migration of Compatibility.Core platform-specific unit
+tests into device tests - 4 by
+[@&amp;#8203;TamilarasanSF4853](https://redirect.github.com/TamilarasanSF4853)
+in
+[https://github.com/dotnet/maui/pull/28105](https://redirect.github.com/dotnet/maui/pull/28105)
+- \[Testing] Run tests verifying snapshots on mac now that's possible by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/27893](https://redirect.github.com/dotnet/maui/pull/27893)
+- \[Testing] More changes in capabilities to adjust Appium timeouts by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/27675](https://redirect.github.com/dotnet/maui/pull/27675)
+- \[tests] Run tests on x64 only for devices controls by
+[@&amp;#8203;rmarinho](https://redirect.github.com/rmarinho) in
+[https://github.com/dotnet/maui/pull/27714](https://redirect.github.com/dotnet/maui/pull/27714)
+- Fix Modal Test using correct Page by
+[@&amp;#8203;tj-devel709](https://redirect.github.com/tj-devel709) in
+[https://github.com/dotnet/maui/pull/28250](https://redirect.github.com/dotnet/maui/pull/28250)
+- \[Testing] Fix for flaky UITests in CI that occasionally fail - 5 by
+[@&amp;#8203;HarishKumarSF4517](https://redirect.github.com/HarishKumarSF4517)
+in
+[https://github.com/dotnet/maui/pull/28269](https://redirect.github.com/dotnet/maui/pull/28269)
+- Disable test recently re-enabled BindingUpdatesFromInteractiveRefresh
+by [@&amp;#8203;PureWeen](https://redirect.github.com/PureWeen) in
+[https://github.com/dotnet/maui/pull/28314](https://redirect.github.com/dotnet/maui/pull/28314)
+- \[Testing] Implement the option to change system theme on Appium by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/28025](https://redirect.github.com/dotnet/maui/pull/28025)
+- \[Testing] Fix for flaky UITests in CI that occasionally fail - 3 by
+[@&amp;#8203;NafeelaNazhir](https://redirect.github.com/NafeelaNazhir) in
+[https://github.com/dotnet/maui/pull/27905](https://redirect.github.com/dotnet/maui/pull/27905)
+- \[Testing] Fix for flaky UITests in CI that occasionally fail. by
+[@&amp;#8203;nivetha-nagalingam](https://redirect.github.com/nivetha-nagalingam)
+in
+[https://github.com/dotnet/maui/pull/27453](https://redirect.github.com/dotnet/maui/pull/27453)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 2 by
+[@&amp;#8203;LogishaSelvarajSF4525](https://redirect.github.com/LogishaSelvarajSF4525)
+in
+[https://github.com/dotnet/maui/pull/27500](https://redirect.github.com/dotnet/maui/pull/27500)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 14 by
+[@&amp;#8203;LogishaSelvarajSF4525](https://redirect.github.com/LogishaSelvarajSF4525)
+in
+[https://github.com/dotnet/maui/pull/27906](https://redirect.github.com/dotnet/maui/pull/27906)
+- \[Testing] Enabling ContextMenu UITests from Xamarin.UITests to Appium
+- 2 by
+[@&amp;#8203;nivetha-nagalingam](https://redirect.github.com/nivetha-nagalingam)
+in
+[https://github.com/dotnet/maui/pull/27405](https://redirect.github.com/dotnet/maui/pull/27405)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 9 by
+[@&amp;#8203;HarishKumarSF4517](https://redirect.github.com/HarishKumarSF4517)
+in
+[https://github.com/dotnet/maui/pull/27743](https://redirect.github.com/dotnet/maui/pull/27743)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 10 by
+[@&amp;#8203;nivetha-nagalingam](https://redirect.github.com/nivetha-nagalingam)
+in
+[https://github.com/dotnet/maui/pull/27751](https://redirect.github.com/dotnet/maui/pull/27751)
+- \[Testing] Migration of Compatibility.Core platform-specific unit
+tests into device tests - 1 by
+[@&amp;#8203;anandhan-rajagopal](https://redirect.github.com/anandhan-rajagopal)
+in
+[https://github.com/dotnet/maui/pull/27695](https://redirect.github.com/dotnet/maui/pull/27695)
+- \[Testing] Fix flaky tests 6 by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/27874](https://redirect.github.com/dotnet/maui/pull/27874)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 12 by
+[@&amp;#8203;LogishaSelvarajSF4525](https://redirect.github.com/LogishaSelvarajSF4525)
+in
+[https://github.com/dotnet/maui/pull/27804](https://redirect.github.com/dotnet/maui/pull/27804)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 13 by
+[@&amp;#8203;HarishKumarSF4517](https://redirect.github.com/HarishKumarSF4517)
+in
+[https://github.com/dotnet/maui/pull/27904](https://redirect.github.com/dotnet/maui/pull/27904)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 4 by
+[@&amp;#8203;HarishKumarSF4517](https://redirect.github.com/HarishKumarSF4517)
+in
+[https://github.com/dotnet/maui/pull/27561](https://redirect.github.com/dotnet/maui/pull/27561)
+- \[Testing] Fix for flaky UITests in CI that occasionally fail - 2 by
+[@&amp;#8203;nivetha-nagalingam](https://redirect.github.com/nivetha-nagalingam)
+in
+[https://github.com/dotnet/maui/pull/27878](https://redirect.github.com/dotnet/maui/pull/27878)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 5 by
+[@&amp;#8203;LogishaSelvarajSF4525](https://redirect.github.com/LogishaSelvarajSF4525)
+in
+[https://github.com/dotnet/maui/pull/27564](https://redirect.github.com/dotnet/maui/pull/27564)
+- \[Testing] Enabling ContextMenu UITests from Xamarin.UITests to Appium
+by [@&amp;#8203;NafeelaNazhir](https://redirect.github.com/NafeelaNazhir) in
+[https://github.com/dotnet/maui/pull/27403](https://redirect.github.com/dotnet/maui/pull/27403)
+- \[Testing] Fix flaky test 5 by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/27733](https://redirect.github.com/dotnet/maui/pull/27733)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 6 by
+[@&amp;#8203;LogishaSelvarajSF4525](https://redirect.github.com/LogishaSelvarajSF4525)
+in
+[https://github.com/dotnet/maui/pull/27581](https://redirect.github.com/dotnet/maui/pull/27581)
+- \[Testing, CI] Increased threshold value to make Resizetizer unit
+tests pass on arm64 machines by
+[@&amp;#8203;anandhan-rajagopal](https://redirect.github.com/anandhan-rajagopal)
+in
+[https://github.com/dotnet/maui/pull/27684](https://redirect.github.com/dotnet/maui/pull/27684)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 7 by
+[@&amp;#8203;HarishKumarSF4517](https://redirect.github.com/HarishKumarSF4517)
+in
+[https://github.com/dotnet/maui/pull/27639](https://redirect.github.com/dotnet/maui/pull/27639)
+- \[Testing] Implement TapCoordinates Appium action on macOS by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/27603](https://redirect.github.com/dotnet/maui/pull/27603)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 8 by
+[@&amp;#8203;nivetha-nagalingam](https://redirect.github.com/nivetha-nagalingam)
+in
+[https://github.com/dotnet/maui/pull/27681](https://redirect.github.com/dotnet/maui/pull/27681)
+- \[Testing] Fix DragCoordinates Appium action on Mac by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/27339](https://redirect.github.com/dotnet/maui/pull/27339)
+- \[Testing] Enabling WebView UITests from Issues folder in Appium by
+[@&amp;#8203;NafeelaNazhir](https://redirect.github.com/NafeelaNazhir) in
+[https://github.com/dotnet/maui/pull/27284](https://redirect.github.com/dotnet/maui/pull/27284)
+- \[Testing] Feature Matrix UITest Cases for Slider Control by
+[@&amp;#8203;NafeelaNazhir](https://redirect.github.com/NafeelaNazhir) in
+[https://github.com/dotnet/maui/pull/27433](https://redirect.github.com/dotnet/maui/pull/27433)
+- \[Testing] Fix flaky UITests 7 by
+[@&amp;#8203;jsuarezruiz](https://redirect.github.com/jsuarezruiz) in
+[https://github.com/dotnet/maui/pull/28000](https://redirect.github.com/dotnet/maui/pull/28000)
+- Add missing screen shot for Issue25502 on MAC by
+[@&amp;#8203;PureWeen](https://redirect.github.com/PureWeen) in
+[https://github.com/dotnet/maui/pull/27813](https://redirect.github.com/dotnet/maui/pull/27813)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 1 by
+[@&amp;#8203;HarishKumarSF4517](https://redirect.github.com/HarishKumarSF4517)
+in
+[https://github.com/dotnet/maui/pull/27454](https://redirect.github.com/dotnet/maui/pull/27454)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 3 by
+[@&amp;#8203;LogishaSelvarajSF4525](https://redirect.github.com/LogishaSelvarajSF4525)
+in
+[https://github.com/dotnet/maui/pull/27501](https://redirect.github.com/dotnet/maui/pull/27501)
+- \[Android] Testcase for Shell FlowDirection issue by
+[@&amp;#8203;Vignesh-SF3580](https://redirect.github.com/Vignesh-SF3580) in
+[https://github.com/dotnet/maui/pull/27931](https://redirect.github.com/dotnet/maui/pull/27931)
+- Don't need to register ApplicationStub by
+[@&amp;#8203;PureWeen](https://redirect.github.com/PureWeen) in
+[https://github.com/dotnet/maui/pull/27885](https://redirect.github.com/dotnet/maui/pull/27885)
+- \[Testing] Enable the Issue417 test on iOS and Catalyst by
+[@&amp;#8203;kubaflo](https://redirect.github.com/kubaflo) in
+[https://github.com/dotnet/maui/pull/27987](https://redirect.github.com/dotnet/maui/pull/27987)
+- \[Testing] Enabling more UI Tests by removing platform specific
+condition - 11 by
+[@&amp;#8203;LogishaSelvarajSF4525](https://redirect.github.com/LogishaSelvarajSF4525)
+in
+[https://github.com/dotnet/maui/pull/27764](https://redirect.github.com/dotnet/maui/pull/27764)
+
+#### New Contributors
+
+- [@&amp;#8203;sthewissen](https://redirect.github.com/sthewissen) made
+their first contribution in
+[https://github.com/dotnet/maui/pull/27529](https://redirect.github.com/dotnet/maui/pull/27529)
+- [@&amp;#8203;APoukar](https://redirect.github.com/APoukar) made their
+first contribution in
+[https://github.com/dotnet/maui/pull/27658](https://redirect.github.com/dotnet/maui/pull/27658)
+- [@&amp;#8203;Shalini-Ashokan](https://redirect.github.com/Shalini-Ashokan)
+made their first contribution in
+[https://github.com/dotnet/maui/pull/27464](https://redirect.github.com/dotnet/maui/pull/27464)
+- [@&amp;#8203;bhavanesh2001](https://redirect.github.com/bhavanesh2001)
+made their first contribution in
+[https://github.com/dotnet/maui/pull/27718](https://redirect.github.com/dotnet/maui/pull/27718)
+- [@&amp;#8203;Dhivya-SF4094](https://redirect.github.com/Dhivya-SF4094)
+made their first contribution in
+[https://github.com/dotnet/maui/pull/27451](https://redirect.github.com/dotnet/maui/pull/27451)
+- [@&amp;#8203;mohsenbgi](https://redirect.github.com/mohsenbgi) made their
+first contribution in
+[https://github.com/dotnet/maui/pull/23473](https://redirect.github.com/dotnet/maui/pull/23473)
+- [@&amp;#8203;mos379](https://redirect.github.com/mos379) made their first
+contribution in
+[https://github.com/dotnet/maui/pull/15668](https://redirect.github.com/dotnet/maui/pull/15668)
 -
-[`2dafcf1`](https://redirect.github.com/reactiveui/DynamicData/commit/2dafcf1cfca659f26a1e5fab03a92b81cc9cef3b)
-Add AOT Friendly Attributes for BindingList&lt;T&gt; Compatibility
-([#&amp;#8203;987](https://redirect.github.com/reactiveui/DynamicData/issues/987))
-[@&amp;#8203;dwcullop](https://redirect.github.com/dwcullop)
+[@&amp;#8203;BrayanKhosravian](https://redirect.github.com/BrayanKhosravian)
+made their first contribution in
+[https://github.com/dotnet/maui/pull/28143](https://redirect.github.com/dotnet/maui/pull/28143)
 -
-[`2cefd22`](https://redirect.github.com/reactiveui/DynamicData/commit/2cefd22e985e1cf25d9b5c11028a5be03b411b30)
-Release v9.2
-([#&amp;#8203;989](https://redirect.github.com/reactiveui/DynamicData/issues/989))
-[@&amp;#8203;RolandPheasant](https://redirect.github.com/RolandPheasant)
+[@&amp;#8203;TamilarasanSF4853](https://redirect.github.com/TamilarasanSF4853)
+made their first contribution in
+[https://github.com/dotnet/maui/pull/27968](https://redirect.github.com/dotnet/maui/pull/27968)
+- [@&amp;#8203;jadenrogers](https://redirect.github.com/jadenrogers) made
+their first contribution in
+[https://github.com/dotnet/maui/pull/28116](https://redirect.github.com/dotnet/maui/pull/28116)
+
+**Full Changelog**:
+https://github.com/dotnet/maui/compare/9.0.40...9.0.50
+
+&lt;/details&gt;
+
+&lt;details&gt;
+&lt;summary&gt;dotnet/runtime (System.Text.Json)&lt;/summary&gt;
+
+###
+[`v9.0.3`](https://redirect.github.com/dotnet/runtime/releases/tag/v9.0.3):
+.NET 9.0.3
+
+[Release](https://redirect.github.com/dotnet/core/releases/tag/v9.0.3)
+
+##### What's Changed
+
+- \[release/9.0-staging] Fix wrong alias-to for tvos AOT packs in net8
+workload manifest by
+[@&amp;#8203;akoeplinger](https://redirect.github.com/akoeplinger) in
+[https://github.com/dotnet/runtime/pull/110871](https://redirect.github.com/dotnet/runtime/pull/110871)
+- \[release/9.0] Disable tests targetting
+http://corefx-net-http11.azurewebsites.net by
+[@&amp;#8203;rzikm](https://redirect.github.com/rzikm) in
+[https://github.com/dotnet/runtime/pull/111402](https://redirect.github.com/dotnet/runtime/pull/111402)
+- \[release/9.0-staging] Support generic fields in
+PersistedAssemblyBuilder by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/110839](https://redirect.github.com/dotnet/runtime/pull/110839)
+- \[release/9.0-staging] Re-enable skiasharp WBT tests
+([#&amp;#8203;109232](https://redirect.github.com/dotnet/runtime/issues/109232))
+by [@&amp;#8203;radekdoulik](https://redirect.github.com/radekdoulik) in
+[https://github.com/dotnet/runtime/pull/110734](https://redirect.github.com/dotnet/runtime/pull/110734)
+- \[release/9.0-staging] Backport test fixes related to BinaryFormatter
+removal by [@&amp;#8203;adamsitnik](https://redirect.github.com/adamsitnik)
+in
+[https://github.com/dotnet/runtime/pull/111508](https://redirect.github.com/dotnet/runtime/pull/111508)
+- \[manual] Merge branch 'release/9.0' =&gt; 'release/9.0-staging' by
+[@&amp;#8203;carlossanlop](https://redirect.github.com/carlossanlop) in
+[https://github.com/dotnet/runtime/pull/111565](https://redirect.github.com/dotnet/runtime/pull/111565)
+- \[release/9.0] \[wasi] Disable build in .NET 9 by
+[@&amp;#8203;maraf](https://redirect.github.com/maraf) in
+[https://github.com/dotnet/runtime/pull/108877](https://redirect.github.com/dotnet/runtime/pull/108877)
+- \[release/9.0-staging] \[mono] Disable UnitTest_GVM_TypeLoadException
+for fullAOT jobs by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/111394](https://redirect.github.com/dotnet/runtime/pull/111394)
+- \[release/9.0-staging] Fix UnsafeAccessor scenario for modopts/modreqs
+when comparing field sigs. by
+[@&amp;#8203;AaronRobinsonMSFT](https://redirect.github.com/AaronRobinsonMSFT)
+in
+[https://github.com/dotnet/runtime/pull/111675](https://redirect.github.com/dotnet/runtime/pull/111675)
+- \[release/9.0-staging] \[mono] Run runtime-llvm and runtime-ioslike on
+Mono LLVM PRs by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/111739](https://redirect.github.com/dotnet/runtime/pull/111739)
+- \[release/9.0-staging] fix stack 2x2 tensor along dimension 1 by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/110053](https://redirect.github.com/dotnet/runtime/pull/110053)
+- \[release/9.0-staging] Fix race condition in cleanup of collectible
+thread static variables by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/111275](https://redirect.github.com/dotnet/runtime/pull/111275)
+- \[release/9.0-staging] \[iOS] Retrieve device locale in full
+(specific) format from ObjectiveC APIs by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/111612](https://redirect.github.com/dotnet/runtime/pull/111612)
+- \[release/9.0-staging] Add workflow to prevent merging a PR when the
+`NO-MERGE` label is applied by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/111961](https://redirect.github.com/dotnet/runtime/pull/111961)
+- \[release/9.0-staging] Use alternative format string specifier to
+ensure decimal point is present by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/111444](https://redirect.github.com/dotnet/runtime/pull/111444)
+- \[release/9.0-staging] Fixed android build with NDK 23 by
+[@&amp;#8203;jkurdek](https://redirect.github.com/jkurdek) in
+[https://github.com/dotnet/runtime/pull/111696](https://redirect.github.com/dotnet/runtime/pull/111696)
+- \[release/9.0-staging] Fix UNC paths by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/111499](https://redirect.github.com/dotnet/runtime/pull/111499)
+- \[release/9.0-staging] \[mono] \[llvm-aot] Fixed storing Vector3 into
+memory by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/111069](https://redirect.github.com/dotnet/runtime/pull/111069)
+- \[release/9.0] Remove explicit \__compact_unwind entries from x64
+assembler by
+[@&amp;#8203;filipnavara](https://redirect.github.com/filipnavara) in
+[https://github.com/dotnet/runtime/pull/112204](https://redirect.github.com/dotnet/runtime/pull/112204)
+- Update branding to 9.0.3 by
+[@&amp;#8203;vseanreesermsft](https://redirect.github.com/vseanreesermsft)
+in
+[https://github.com/dotnet/runtime/pull/112144](https://redirect.github.com/dotnet/runtime/pull/112144)
+- \[release/9.0-staging] Update dependencies from dotnet/xharness by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/111606](https://redirect.github.com/dotnet/runtime/pull/111606)
+- \[release/9.0] Update dependencies from dotnet/emsdk by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/111891](https://redirect.github.com/dotnet/runtime/pull/111891)
+- \[release/9.0] Update dependencies from dotnet/emsdk by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/112189](https://redirect.github.com/dotnet/runtime/pull/112189)
+- \[release/9.0-staging] Update dependencies from dotnet/icu by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/111519](https://redirect.github.com/dotnet/runtime/pull/111519)
+- \[release/9.0-staging] Update dependencies from dotnet/icu by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/112121](https://redirect.github.com/dotnet/runtime/pull/112121)
+- \[release/9.0-staging] Update dependencies from dotnet/runtime-assets
+by [@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro)
+in
+[https://github.com/dotnet/runtime/pull/111737](https://redirect.github.com/dotnet/runtime/pull/111737)
+- \[release/9.0-staging] Fix shimmed implementation of
+TryGetHashAndReset to handle HMAC. by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/112015](https://redirect.github.com/dotnet/runtime/pull/112015)
+- Remove Windows 8.1 from test queues by
+[@&amp;#8203;agocke](https://redirect.github.com/agocke) in
+[https://github.com/dotnet/runtime/pull/112056](https://redirect.github.com/dotnet/runtime/pull/112056)
+- \[release/9.0-staging] Update dependencies from
+dotnet/source-build-reference-packages by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/111603](https://redirect.github.com/dotnet/runtime/pull/111603)
+- \[browser] Remove experimental args from NodeJS WBT runner by
+[@&amp;#8203;maraf](https://redirect.github.com/maraf) in
+[https://github.com/dotnet/runtime/pull/111655](https://redirect.github.com/dotnet/runtime/pull/111655)
+- \[release/9.0-staging] Update dependencies from dotnet/sdk by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/111607](https://redirect.github.com/dotnet/runtime/pull/111607)
+- \[release/9.0-staging] Update dependencies from
+dotnet/roslyn-analyzers by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/111826](https://redirect.github.com/dotnet/runtime/pull/111826)
+- \[release/9.0-staging] Update dependencies from dotnet/hotreload-utils
+by [@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro)
+in
+[https://github.com/dotnet/runtime/pull/111885](https://redirect.github.com/dotnet/runtime/pull/111885)
+- \[release/9.0-staging] Update dependencies from dotnet/cecil by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/112122](https://redirect.github.com/dotnet/runtime/pull/112122)
+- \[release/9.0-staging] Update dependencies from dotnet/roslyn by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/112225](https://redirect.github.com/dotnet/runtime/pull/112225)
+- \[release/9.0-staging] Update dependencies from dotnet/icu by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/112261](https://redirect.github.com/dotnet/runtime/pull/112261)
+- \[automated] Merge branch 'release/9.0' =&gt; 'release/9.0-staging' by
+[@&amp;#8203;github-actions](https://redirect.github.com/github-actions) in
+[https://github.com/dotnet/runtime/pull/112219](https://redirect.github.com/dotnet/runtime/pull/112219)
+- \[release/9.0-staging] Update dependencies from dotnet/xharness by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/112340](https://redirect.github.com/dotnet/runtime/pull/112340)
+- \[release/9.0-staging] Update dependencies from dotnet/arcade by
+[@&amp;#8203;dotnet-maestro](https://redirect.github.com/dotnet-maestro) in
+[https://github.com/dotnet/runtime/pull/111483](https://redirect.github.com/dotnet/runtime/pull/111483)
+- Backport pr 111723 to 9.0 staging by
+[@&amp;#8203;StephenMolloy](https://redirect.github.com/StephenMolloy) in
+[https://github.com/dotnet/runtime/pull/112322](https://redirect.github.com/dotnet/runtime/pull/112322)
+- \[manual] Merge release/9.0-staging into release/9.0 by
+[@&amp;#8203;carlossanlop](https://redirect.github.com/carlossanlop) in
+[https://github.com/dotnet/runtime/pull/112382](https://redirect.github.com/dotnet/runtime/pull/112382)
+- \[9.0] Backport labeling workflow changes by
+[@&amp;#8203;carlossanlop](https://redirect.github.com/carlossanlop) in
+[https://github.com/dotnet/runtime/pull/112240](https://redirect.github.com/dotnet/runtime/pull/112240)
+- \[9.0] Move release/9.0 localization back to main too by
+[@&amp;#8203;carlossanlop](https://redirect.github.com/carlossanlop) in
+[https://github.com/dotnet/runtime/pull/112443](https://redirect.github.com/dotnet/runtime/pull/112443)
+- Merging internal commits for release/9.0 by
+[@&amp;#8203;vseanreesermsft](https://redirect.github.com/vseanreesermsft)
+in
+[https://github.com/dotnet/runtime/pull/112453](https://redirect.github.com/dotnet/runtime/pull/112453)
+
+**Full Changelog**:
+https://github.com/dotnet/runtime/compare/v9.0.2...v9.0.3
 
 &lt;/details&gt;
 
@@ -350,8 +1213,8 @@ are satisfied.
 ♻ **Rebasing**: Whenever PR is behind base branch, or you tick the
 rebase/retry checkbox.
 
-🔕 **Ignore**: Close this PR and you won't be reminded about this update
-again.
+🔕 **Ignore**: Close this PR and you won't be reminded about these
+updates again.
 
 ---
 
@@ -371,61 +1234,12 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#4001 chore(deps): update dependency dynamicdata to 9.2.1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">reactiveui/ReactiveUI</span></div>
-                                    <div>1 file changed <span class="code">++1 --1</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#4001 chore(deps): update dependency dynamicdata to 9.2.1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">reactiveui/ReactiveUI</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Reviewed
-                                        <span class="issue">#119 Update dependency xunit.runner.visualstudio to 3.0.2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by renovate[bot] in <span class="repo">ChrisPulman/ModbusRx</span></div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2025, 01:44:29 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 25 Mar 2025, 01:42:21 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
