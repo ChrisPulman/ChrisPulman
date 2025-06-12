@@ -35,7 +35,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics_right.svg
