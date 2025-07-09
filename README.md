@@ -222,19 +222,19 @@
 </a>
 <br clear="both"/>
 
-## ReactiveMarbles.Extensions.Hosting
-#### ReactiveMarbles.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite)
-#### ReactiveMarbles.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer)
-#### ReactiveMarbles.Extensions.Hosting.MainUIThread ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.MainUIThread) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.MainUIThread)
-#### ReactiveMarbles.Extensions.Hosting.Plugins ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Plugins) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Plugins)
-#### ReactiveMarbles.Extensions.Hosting.PluginService ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.PluginService) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.PluginService)
-#### ReactiveMarbles.Extensions.Hosting.ReactiveUI.WinForms ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.WinForms) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.WinForms)
-#### ReactiveMarbles.Extensions.Hosting.ReactiveUI.WinUI ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.WinUI) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.WinUI)
-#### ReactiveMarbles.Extensions.Hosting.ReactiveUI.Wpf ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.Wpf) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.Wpf)
-#### ReactiveMarbles.Extensions.Hosting.SingleInstance ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.SingleInstance) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.SingleInstance)
-#### ReactiveMarbles.Extensions.Hosting.WinForms ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.WinForms) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.WinForms)
-#### ReactiveMarbles.Extensions.Hosting.WinUI ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.WinUI) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.WinUI)
-#### ReactiveMarbles.Extensions.Hosting.Wpf ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Wpf) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Wpf)
+## CP.Extensions.Hosting
+#### CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite)
+#### CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer)
+#### CP.Extensions.Hosting.MainUIThread ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.MainUIThread) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.MainUIThread)
+#### CP.Extensions.Hosting.Plugins ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Plugins) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Plugins)
+#### CP.Extensions.Hosting.PluginService ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.PluginService) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.PluginService)
+#### CP.Extensions.Hosting.ReactiveUI.WinForms ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.WinForms) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.WinForms)
+#### CP.Extensions.Hosting.ReactiveUI.WinUI ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.WinUI) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.WinUI)
+#### CP.Extensions.Hosting.ReactiveUI.Wpf ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.ReactiveUI.Wpf) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.Wpf)
+#### CP.Extensions.Hosting.SingleInstance ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.SingleInstance) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.SingleInstance)
+#### CP.Extensions.Hosting.WinForms ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.WinForms) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.WinForms)
+#### CP.Extensions.Hosting.WinUI ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.WinUI) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.WinUI)
+#### CP.Extensions.Hosting.Wpf ![Nuget](https://img.shields.io/nuget/v/CP.Extensions.Hosting.Wpf) ![Nuget](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Wpf)
 
 ## ReactiveMarbles.CrissCross
 #### ReactiveMarbles.CrissCross ![Nuget](https://img.shields.io/nuget/v/CrissCross) ![Nuget](https://img.shields.io/nuget/dt/CrissCross)
