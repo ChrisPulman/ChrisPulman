@@ -91,6 +91,13 @@
     <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=MitsubishiRx">
   </picture>
 </a>
+<a href="https://github.com/ChrisPulman/OmronPlcRx">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=OmronPlcRx&theme=react">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=OmronPlcRx">
+    <img align="center" width="420" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=OmronPlcRx">
+  </picture>
+</a>
 <a href="https://github.com/ChrisPulman/SerialPortRx">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=ChrisPulman&repo=SerialPortRx&theme=react">
