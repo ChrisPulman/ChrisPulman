@@ -33,7 +33,7 @@
     <img src="https://github.com/dotnet/MQTTnet/blob/master/Images/icon_64.png" alt="mqtt" width="40" height="40"/>
   </a>
   <a href="https://plcopen.org/iec-61131-3" target="_blank">
-    <img src="https://plcopen.org/sites/default/files/images/icons/plc_logic_72dpi.png" alt="IEC61131-3" width="40" height="40"/>
+    <img src="https://www.plcopen.org/application/files/7117/5818/4664/plcopen_logo_logic_medium.webp" alt="IEC61131-3" width="40" height="40"/>
   </a>
 </p>
 
