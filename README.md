@@ -21,7 +21,7 @@
 
 ## 🏆 About Me
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/ChrisPulman/ChrisPulman/main/metrics_left.svg" alt="Metrics"/>
+<img align="right" width="200" src="https://raw.githubusercontent.com/ChrisPulman/ChrisPulman/main/metrics_right.svg" alt="Metrics"/>
 
 - 🎖️ [**Microsoft MVP**](https://mvp.microsoft.com/en-US/mvp/profile/12585dbb-00c9-45f2-a038-c299db573de6) in Developer Technologies
 - 🏛️ [**.NET Foundation**](https://dotnetfoundation.org/) Committee Member  
