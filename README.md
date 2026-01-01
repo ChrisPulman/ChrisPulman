@@ -5,7 +5,7 @@
 
 [![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Developer%20Technologies-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/en-US/mvp/profile/12585dbb-00c9-45f2-a038-c299db573de6)
 [![.NET Foundation](https://img.shields.io/badge/.NET%20Foundation-Committee%20Member-purple?style=for-the-badge&logo=dotnet)](https://dotnetfoundation.org/)
-[![OpenUK Honours](https://img.shields.io/badge/OpenUK-Honours%20List-green?style=for-the-badge)](https://openuk.uk/honours/)
+[![OpenUK Honours](https://img.shields.io/badge/OpenUK-Honours%20List-green?style=for-the-badge)]([https://openuk.uk/honours/](https://openuk.uk/community/openuk-honours-lists/2025-honours-lists/))
 
 **Senior Engineering Technologist | Reactive Programming Specialist | Open Source Contributor**
 
@@ -25,7 +25,7 @@
 
 - 🎖️ [**Microsoft MVP**](https://mvp.microsoft.com/en-US/mvp/profile/12585dbb-00c9-45f2-a038-c299db573de6) in Developer Technologies
 - 🏛️ [**.NET Foundation**](https://dotnetfoundation.org/) Committee Member  
-- 🌟 [**OpenUK Honours**](https://openuk.uk/honours/) List Recognition 2025
+- 🌟 [**OpenUK Honours**](https://openuk.uk/community/openuk-honours-lists/2025-honours-lists/) List Recognition 2025
 - 💼 Senior Technologist at [**AIC Solutions Ltd**](https://www.aicsolutions.com/)
 - 🔧 Specializing in **Reactive Extensions (Rx)** for .NET
 - 🏭 Industrial automation & PLC communication expert
@@ -257,5 +257,5 @@ I'm always interested in discussing reactive programming, industrial automation,
 ---
 
 <div align="center">
-  <sub>⭐ If you find my projects useful, consider giving them a star! ⭐</sub>
+  <sub>⭐ If you find my projects useful, consider giving them a star! Or consider a sponsership ⭐</sub>
 </div>
