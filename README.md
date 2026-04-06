@@ -101,6 +101,7 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**Fusillade**](https://github.com/reactiveui/Fusillade) | Opinionated HTTP library for mobile | ![Stars](https://img.shields.io/github/stars/reactiveui/Fusillade?style=flat-square) |
 | [**Sextant**](https://github.com/reactiveui/Sextant) | ReactiveUI navigation library | ![Stars](https://img.shields.io/github/stars/reactiveui/Sextant?style=flat-square) |
 | [**Extensions**](https://github.com/reactiveui/Extensions) | Functional reactive MVVM framework for all .NET platforms | ![Stars](https://img.shields.io/github/stars/reactiveui/Extensions?style=flat-square) |
+| [**ReactiveUI MCP Server**](https://github.com/ChrisPulman/ReactiveUIMcp.Server) | ReactiveUI MCP Server | ![Stars](https://img.shields.io/github/stars/ChrisPulman/ReactiveUIMcp.Server?style=flat-square) |
 
 ---
 
