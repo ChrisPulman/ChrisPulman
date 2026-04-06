@@ -90,18 +90,18 @@ To learn more about Reactive Extensions read the following online book [**Introd
 ### 🔗 ReactiveUI Ecosystem
 *Advanced MVVM framework for .NET - Contributor & Maintainer*
 
-| Repository | Description | Stats |
-|------------|-------------|-------|
-| [**ReactiveUI**](https://github.com/reactiveui/ReactiveUI) | Functional reactive MVVM framework for all .NET platforms | ![Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI?style=flat-square) |
-| [**ReactiveUI.SourceGenerators**](https://github.com/reactiveui/ReactiveUI.SourceGenerators) | Functional reactive MVVM framework for all .NET platforms | ![Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI.SourceGenerators?style=flat-square) |
-| [**Refit**](https://github.com/reactiveui/refit) | Automatic type-safe REST library for .NET | ![Stars](https://img.shields.io/github/stars/reactiveui/refit?style=flat-square) |
-| [**Akavache**](https://github.com/reactiveui/Akavache) | Async, persistent key-value store | ![Stars](https://img.shields.io/github/stars/reactiveui/Akavache?style=flat-square) |
-| [**Splat**](https://github.com/reactiveui/splat) | Cross-platform utilities & service location | ![Stars](https://img.shields.io/github/stars/reactiveui/splat?style=flat-square) |
-| [**ReactiveUI.Validation**](https://github.com/reactiveui/ReactiveUI.Validation) | Validation helpers for ReactiveUI apps | ![Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI.Validation?style=flat-square) |
-| [**Fusillade**](https://github.com/reactiveui/Fusillade) | Opinionated HTTP library for mobile | ![Stars](https://img.shields.io/github/stars/reactiveui/Fusillade?style=flat-square) |
-| [**Sextant**](https://github.com/reactiveui/Sextant) | ReactiveUI navigation library | ![Stars](https://img.shields.io/github/stars/reactiveui/Sextant?style=flat-square) |
-| [**Extensions**](https://github.com/reactiveui/Extensions) | Functional reactive MVVM framework for all .NET platforms | ![Stars](https://img.shields.io/github/stars/reactiveui/Extensions?style=flat-square) |
-| [**ReactiveUI MCP Server**](https://github.com/ChrisPulman/ReactiveUIMcp.Server) | ReactiveUI MCP Server | ![Stars](https://img.shields.io/github/stars/ChrisPulman/ReactiveUIMcp.Server?style=flat-square) |
+| Repository | Description | Stats | Downloads |
+|------------|-------------|-------|-----------|
+| [**ReactiveUI**](https://github.com/reactiveui/ReactiveUI) | Functional reactive MVVM framework for all .NET platforms | ![Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/ReactiveUI?style=flat-square) |
+| [**ReactiveUI.SourceGenerators**](https://github.com/reactiveui/ReactiveUI.SourceGenerators) | Functional reactive MVVM framework for all .NET platforms | ![Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI.SourceGenerators?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/ReactiveUI.SourceGenerators?style=flat-square) |
+| [**Refit**](https://github.com/reactiveui/refit) | Automatic type-safe REST library for .NET | ![Stars](https://img.shields.io/github/stars/reactiveui/refit?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/Refit?style=flat-square) |
+| [**Akavache**](https://github.com/reactiveui/Akavache) | Async, persistent key-value store | ![Stars](https://img.shields.io/github/stars/reactiveui/Akavache?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/Akavache?style=flat-square) |
+| [**Splat**](https://github.com/reactiveui/splat) | Cross-platform utilities & service location | ![Stars](https://img.shields.io/github/stars/reactiveui/splat?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/Splat?style=flat-square) |
+| [**ReactiveUI.Validation**](https://github.com/reactiveui/ReactiveUI.Validation) | Validation helpers for ReactiveUI apps | ![Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI.Validation?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/ReactiveUI.Validation?style=flat-square) |
+| [**Fusillade**](https://github.com/reactiveui/Fusillade) | Opinionated HTTP library for mobile | ![Stars](https://img.shields.io/github/stars/reactiveui/Fusillade?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/Fusillade?style=flat-square) |
+| [**Sextant**](https://github.com/reactiveui/Sextant) | ReactiveUI navigation library | ![Stars](https://img.shields.io/github/stars/reactiveui/Sextant?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/Sextant?style=flat-square) |
+| [**Extensions**](https://github.com/reactiveui/Extensions) | Functional reactive MVVM framework for all .NET platforms | ![Stars](https://img.shields.io/github/stars/reactiveui/Extensions?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/ReactiveUI.Extensions?style=flat-square) |
+| [**ReactiveUI MCP Server**](https://github.com/ChrisPulman/ReactiveUIMcp.Server) | ReactiveUI MCP Server | ![Stars](https://img.shields.io/github/stars/ChrisPulman/ReactiveUIMcp.Server?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/CP.ReactiveUI.Mcp.Server?style=flat-square) |
 
 ---
 
