@@ -182,6 +182,7 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**VS.Squirrel**](https://github.com/ChrisPulman/VS.Squirrel) | Visual Studio Squirrel addin | ![Stars](https://img.shields.io/github/stars/ChrisPulman/VS.Squirrel?style=flat-square) | Local Download |  |
 | [**Velopack.UI**](https://github.com/ChrisPulman/Velopack.UI) | UI for Clowd.Squirrel | ![Stars](https://img.shields.io/github/stars/ChrisPulman/Velopack.UI?style=flat-square) | Local Download |  |
 | [**Auto.Squirrel**](https://github.com/ChrisPulman/Auto.Squirrel) | Squirrel.Windows Package Manager | ![Stars](https://img.shields.io/github/stars/ChrisPulman/Auto.Squirrel?style=flat-square) | Local Download |  |
+| [**Visual Studio Codex**](https://github.com/ChrisPulman/VSCodexExtension) | Squirrel.Windows Package Manager | ![Stars](https://img.shields.io/github/stars/ChrisPulman/VSCodexExtension?style=flat-square) | Visual Studio Marketplace |  |
 
 ---
 
