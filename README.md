@@ -171,7 +171,7 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**ReactiveMemory.MCP.Server**](https://github.com/ChrisPulman/ReactiveMemory.MCP.Server) | Reactive Memory MCP Server | ![Stars](https://img.shields.io/github/stars/ChrisPulman/ReactiveMemory.MCP.Server?style=flat-square) |  ![NuGet](https://img.shields.io/nuget/v/CP.ReactiveMemory.MCP.Server?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/CP.ReactiveMemory.MCP.Server?style=flat-square) |
 | [**CodexComputerRun.MCP.Server**](https://github.com/ChrisPulman/CodexComputerRunMCPServer) | Codex Computer Run MCP Server | ![Stars](https://img.shields.io/github/stars/ChrisPulman/CodexComputerRunMCPServer?style=flat-square) |  ![NuGet](https://img.shields.io/nuget/v/CP.CodexComputerRun.Mcp.Server?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/CP.CodexComputerRun.Mcp.Server?style=flat-square) |
 | [**CrissCross.MCP.Server**](https://github.com/ChrisPulman/CrissCross.MCP.Server) | CrissCross MCP Server | ![Stars](https://img.shields.io/github/stars/ChrisPulman/CrissCross.MCP.Server?style=flat-square) |  ![NuGet](https://img.shields.io/nuget/v/CrissCross.MCP.Server?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/CrissCross.MCP.Server?style=flat-square) |
-| [**Reactive.Multi.Agent.MCP.Server**](https://github.com/ChrisPulman/Reactive.Multi.Agent.MCP.Server) | Reactive Multi Agent MCP Server | ![Stars](https://img.shields.io/github/stars/ChrisPulman/Reactive.Multi.Agent.MCP.Server?style=flat-square) |  ![NuGet](https://img.shields.io/nuget/v/CP.Reactive.Multi.Agent.MCP.Server?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/CP.Reactive.Multi.Agent.MCP.Server?style=flat-square) |
+
 ---
 
 ### 🔧 Developer Tools
@@ -184,7 +184,7 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**Velopack.UI**](https://github.com/ChrisPulman/Velopack.UI) | UI for Clowd.Squirrel | ![Stars](https://img.shields.io/github/stars/ChrisPulman/Velopack.UI?style=flat-square) | Local Download |  |
 | [**Auto.Squirrel**](https://github.com/ChrisPulman/Auto.Squirrel) | Squirrel.Windows Package Manager | ![Stars](https://img.shields.io/github/stars/ChrisPulman/Auto.Squirrel?style=flat-square) | Local Download |  |
 | [**Visual Studio Codex**](https://github.com/ChrisPulman/VSCodexExtension) | Squirrel.Windows Package Manager | ![Stars](https://img.shields.io/github/stars/ChrisPulman/VSCodexExtension?style=flat-square) | Visual Studio Marketplace |  |
-
+| [**Reactive.Multi.Agent.MCP.Server**](https://github.com/ChrisPulman/Reactive.Multi.Agent.MCP.Server) | Reactive Multi Agent MCP Server | ![Stars](https://img.shields.io/github/stars/ChrisPulman/Reactive.Multi.Agent.MCP.Server?style=flat-square) |  ![NuGet](https://img.shields.io/nuget/v/CP.Reactive.Multi.Agent.MCP.Server?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/CP.Reactive.Multi.Agent.MCP.Server?style=flat-square) |
 ---
 
 ## 📊 [CP.Extensions.Hosting](https://github.com/reactivemarbles/Extensions.Hosting) Suite
