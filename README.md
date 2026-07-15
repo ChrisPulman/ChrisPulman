@@ -3,7 +3,7 @@
   
 # 👋 Hi, I'm Chris Pulman
 
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Developer%20Technologies-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/en-US/mvp/profile/12585dbb-00c9-45f2-a038-c299db573de6)
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft%20MVP-Developer%20Technologies%20%2F%20Internet%20of%20Things-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/en-US/mvp/profile/12585dbb-00c9-45f2-a038-c299db573de6)
 [![.NET Foundation](https://img.shields.io/badge/.NET%20Foundation-Committee%20Member-purple?style=for-the-badge&logo=dotnet)](https://dotnetfoundation.org/)
 [![OpenUK Honours](https://img.shields.io/badge/OpenUK-Honours%20List-green?style=for-the-badge)]([https://openuk.uk/honours/](https://openuk.uk/community/openuk-honours-lists/2025-honours-lists/))
 
