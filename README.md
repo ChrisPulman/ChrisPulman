@@ -169,6 +169,7 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**AnimationRx**](https://github.com/ChrisPulman/AnimationRx) | Reactive animations | ![Stars](https://img.shields.io/github/stars/ChrisPulman/AnimationRx?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/AnimationRx.Wpf?style=flat-square&label=downloads)](https://www.nuget.org/packages/AnimationRx.Wpf) |
 | [**HashTableRx**](https://github.com/ChrisPulman/HashTableRx) | Reactive hash table implementation | ![Stars](https://img.shields.io/github/stars/ChrisPulman/HashTableRx?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/HashTableRx?style=flat-square&label=downloads)](https://www.nuget.org/packages/HashTableRx) |
 | [**ReactiveList**](https://github.com/ChrisPulman/ReactiveList) | Reactive list implementation | ![Stars](https://img.shields.io/github/stars/ChrisPulman/ReactiveList?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/ReactiveList?style=flat-square&label=downloads)](https://www.nuget.org/packages/ReactiveList) |
+| [**CP.AspNetCore.SignalR.Client.Rx**](https://github.com/ChrisPulman/CP.AspNetCore.SignalR.Client.Rx) | Reactive SignalR Client implementation | ![Stars](https://img.shields.io/github/stars/ChrisPulman/CP.AspNetCore.SignalR.Client.Rx?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CP.AspNetCore.SignalR.Client.Rx?style=flat-square&label=downloads)](https://www.nuget.org/packages/CP.AspNetCore.SignalR.Client.Rx) |
 
 ---
 
