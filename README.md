@@ -99,8 +99,9 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**Splat**](https://github.com/reactiveui/splat) | Cross-platform utilities & service location | ![Stars](https://img.shields.io/github/stars/reactiveui/splat?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/Splat?style=flat-square) |
 | [**ReactiveUI.Validation**](https://github.com/reactiveui/ReactiveUI.Validation) | Validation helpers for ReactiveUI apps | ![Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI.Validation?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/ReactiveUI.Validation?style=flat-square) |
 | [**Fusillade**](https://github.com/reactiveui/Fusillade) | Opinionated HTTP library for mobile | ![Stars](https://img.shields.io/github/stars/reactiveui/Fusillade?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/Fusillade?style=flat-square) |
-| [**Sextant**](https://github.com/reactiveui/Sextant) | ReactiveUI navigation library | ![Stars](https://img.shields.io/github/stars/reactiveui/Sextant?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/Sextant?style=flat-square) |
+| [**punchclock**](https://github.com/reactiveui/punchclock) | The low-level scheduling and prioritization library | ![Stars](https://img.shields.io/github/stars/reactiveui/punchclock?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/punchclock?style=flat-square) |
 | [**Primitives**](https://github.com/reactiveui/Primitives) | High Speed Reactive Framework with Rx / R3 compatability for all .NET platforms | ![Stars](https://img.shields.io/github/stars/reactiveui/Primitives?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/ReactiveUI.Primitives?style=flat-square) |
+| [**ReactiveUI.Binding.SourceGenerators**](https://github.com/reactiveui/ReactiveUI.Binding.SourceGenerators) | You have a property. When it changes, something else needs to know. | ![Stars](https://img.shields.io/github/stars/reactiveui/ReactiveUI.Binding.SourceGenerators?style=flat-square) | ![Downloads](https://img.shields.io/nuget/dt/ReactiveUI.Binding.SourceGenerators?style=flat-square) |
 
 ---
 
@@ -111,11 +112,7 @@ To learn more about Reactive Extensions read the following online book [**Introd
 |------------|-------------|-------|-----------|
 | [**DynamicData**](https://github.com/reactivemarbles/DynamicData) | Reactive collections based on Rx.Net | ![Stars](https://img.shields.io/github/stars/reactivemarbles/DynamicData?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/DynamicData?style=flat-square&label=downloads)](https://www.nuget.org/packages/DynamicData) |
 | [**CrissCross**](https://github.com/reactivemarbles/CrissCross) | Navigation framework for ReactiveUI | ![Stars](https://img.shields.io/github/stars/reactivemarbles/CrissCross?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CrissCross?style=flat-square&label=downloads)](https://www.nuget.org/packages/CrissCross) |
-| [**ObservableEvents**](https://github.com/reactivemarbles/ObservableEvents) | Source generator for events to observables | ![Stars](https://img.shields.io/github/stars/reactivemarbles/ObservableEvents?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/ReactiveMarbles.ObservableEvents.SourceGenerator?style=flat-square&label=downloads)](https://www.nuget.org/packages/ReactiveMarbles.ObservableEvents.SourceGenerator) |
-| [**PropertyChanged**](https://github.com/reactivemarbles/PropertyChanged) | Lightweight property changed framework | ![Stars](https://img.shields.io/github/stars/reactivemarbles/PropertyChanged?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/ReactiveMarbles.PropertyChanged?style=flat-square&label=downloads)](https://www.nuget.org/packages/ReactiveMarbles.PropertyChanged) |
-| [**CacheDatabase**](https://github.com/reactivemarbles/CacheDatabase) | Akavache reimplementation using SQLite | ![Stars](https://img.shields.io/github/stars/reactivemarbles/CacheDatabase?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/ReactiveMarbles.CacheDatabase.Core?style=flat-square&label=downloads)](https://www.nuget.org/packages/ReactiveMarbles.CacheDatabase.Core) |
 | [**Extensions.Hosting**](https://github.com/reactivemarbles/Extensions.Hosting) | Microsoft.Extensions.Hosting for desktop apps | ![Stars](https://img.shields.io/github/stars/reactivemarbles/Extensions.Hosting?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.ReactiveUI.Wpf?style=flat-square&label=downloads)](https://www.nuget.org/packages/CP.Extensions.Hosting.ReactiveUI.Wpf) |
-| [**Mvvm**](https://github.com/reactivemarbles/Mvvm) | Lightweight MVVM abstractions | ![Stars](https://img.shields.io/github/stars/reactivemarbles/Mvvm?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/ReactiveMarbles.Mvvm?style=flat-square&label=downloads)](https://www.nuget.org/packages/ReactiveMarbles.Mvvm) |
 
 ---
 
@@ -137,9 +134,6 @@ To learn more about Reactive Extensions read the following online book [**Introd
 ### 📡 [MQTTnet.Rx](https://github.com/ChrisPulman/MQTTnet.Rx) Libraries
 *Reactive MQTTnet client, server, and industrial bridge extensions*
 
-<details>
-<summary><strong>📋 View All Packages</strong></summary>
-
 | Repository | Description | Stats | Downloads |
 |------------|-------------|-------|-----------|
 | [**MQTTnet.Rx**](https://github.com/ChrisPulman/MQTTnet.Rx) | Client: [`MQTTnet.Rx.Client`](https://www.nuget.org/packages/MQTTnet.Rx.Client) · [`MQTTnet.Rx.Client.Reactive`](https://www.nuget.org/packages/MQTTnet.Rx.Client.Reactive) | ![Stars](https://img.shields.io/github/stars/ChrisPulman/MQTTnet.Rx?style=flat-square) | [![Lean downloads](https://img.shields.io/nuget/dt/MQTTnet.Rx.Client?style=flat-square&label=lean)](https://www.nuget.org/packages/MQTTnet.Rx.Client) [![Reactive downloads](https://img.shields.io/nuget/dt/MQTTnet.Rx.Client.Reactive?style=flat-square&label=reactive)](https://www.nuget.org/packages/MQTTnet.Rx.Client.Reactive) |
@@ -151,8 +145,6 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**MQTTnet.Rx**](https://github.com/ChrisPulman/MQTTnet.Rx) | Siemens S7: [`MQTTnet.Rx.S7Plc`](https://www.nuget.org/packages/MQTTnet.Rx.S7Plc) · [`MQTTnet.Rx.S7Plc.Reactive`](https://www.nuget.org/packages/MQTTnet.Rx.S7Plc.Reactive) | ![Stars](https://img.shields.io/github/stars/ChrisPulman/MQTTnet.Rx?style=flat-square) | [![Lean downloads](https://img.shields.io/nuget/dt/MQTTnet.Rx.S7Plc?style=flat-square&label=lean)](https://www.nuget.org/packages/MQTTnet.Rx.S7Plc) [![Reactive downloads](https://img.shields.io/nuget/dt/MQTTnet.Rx.S7Plc.Reactive?style=flat-square&label=reactive)](https://www.nuget.org/packages/MQTTnet.Rx.S7Plc.Reactive) |
 | [**MQTTnet.Rx**](https://github.com/ChrisPulman/MQTTnet.Rx) | Serial port: [`MQTTnet.Rx.SerialPort`](https://www.nuget.org/packages/MQTTnet.Rx.SerialPort) · [`MQTTnet.SerialPort.Reactive`](https://www.nuget.org/packages/MQTTnet.SerialPort.Reactive) | ![Stars](https://img.shields.io/github/stars/ChrisPulman/MQTTnet.Rx?style=flat-square) | [![Lean downloads](https://img.shields.io/nuget/dt/MQTTnet.Rx.SerialPort?style=flat-square&label=lean)](https://www.nuget.org/packages/MQTTnet.Rx.SerialPort) [![Reactive downloads](https://img.shields.io/nuget/dt/MQTTnet.SerialPort.Reactive?style=flat-square&label=reactive)](https://www.nuget.org/packages/MQTTnet.SerialPort.Reactive) |
 | [**MQTTnet.Rx**](https://github.com/ChrisPulman/MQTTnet.Rx) | TwinCAT: [`MQTTnet.Rx.TwinCAT`](https://www.nuget.org/packages/MQTTnet.Rx.TwinCAT) · [`MQTTnet.TwinCATRx.Reactive`](https://www.nuget.org/packages/MQTTnet.TwinCATRx.Reactive) | ![Stars](https://img.shields.io/github/stars/ChrisPulman/MQTTnet.Rx?style=flat-square) | [![Lean downloads](https://img.shields.io/nuget/dt/MQTTnet.Rx.TwinCAT?style=flat-square&label=lean)](https://www.nuget.org/packages/MQTTnet.Rx.TwinCAT) [![Reactive downloads](https://img.shields.io/nuget/dt/MQTTnet.TwinCATRx.Reactive?style=flat-square&label=reactive)](https://www.nuget.org/packages/MQTTnet.TwinCATRx.Reactive) |
-
-</details>
 
 ---
 
@@ -170,6 +162,7 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**HashTableRx**](https://github.com/ChrisPulman/HashTableRx) | Reactive hash table implementation | ![Stars](https://img.shields.io/github/stars/ChrisPulman/HashTableRx?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/HashTableRx?style=flat-square&label=downloads)](https://www.nuget.org/packages/HashTableRx) |
 | [**ReactiveList**](https://github.com/ChrisPulman/ReactiveList) | Reactive list implementation | ![Stars](https://img.shields.io/github/stars/ChrisPulman/ReactiveList?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/ReactiveList?style=flat-square&label=downloads)](https://www.nuget.org/packages/ReactiveList) |
 | [**CP.AspNetCore.SignalR.Client.Rx**](https://github.com/ChrisPulman/CP.AspNetCore.SignalR.Client.Rx) | Reactive SignalR Client implementation | ![Stars](https://img.shields.io/github/stars/ChrisPulman/CP.AspNetCore.SignalR.Client.Rx?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CP.AspNetCore.SignalR.Client.Rx?style=flat-square&label=downloads)](https://www.nuget.org/packages/CP.AspNetCore.SignalR.Client.Rx) |
+| [**CP.ReactiveUI.Primitives.Windows**](https://github.com/ChrisPulman/CP.ReactiveUI.Primitives.Windows) | Composable Windows desktop primitives built on ReactiveUI.Primitives. | ![Stars](https://img.shields.io/github/stars/ChrisPulman/CP.ReactiveUI.Primitives.Windows?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CP.ReactiveUI.Primitives.Windows?style=flat-square&label=downloads)](https://www.nuget.org/packages/CP.ReactiveUI.Primitives.Windows) |
 
 ---
 
@@ -206,9 +199,6 @@ To learn more about Reactive Extensions read the following online book [**Introd
 
 *Extension of Microsoft.Extensions.Hosting for desktop applications*
 
-<details>
-<summary><strong>📋 View All Packages</strong></summary>
-
 | Repository | Description | Stats | Downloads |
 |------------|-------------|-------|-----------|
 | [**Extensions.Hosting**](https://github.com/reactivemarbles/Extensions.Hosting) | WPF hosting — [`CP.Extensions.Hosting.Wpf`](https://www.nuget.org/packages/CP.Extensions.Hosting.Wpf) | ![Stars](https://img.shields.io/github/stars/reactivemarbles/Extensions.Hosting?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Wpf?style=flat-square&label=downloads)](https://www.nuget.org/packages/CP.Extensions.Hosting.Wpf) |
@@ -226,16 +216,11 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**Extensions.Hosting**](https://github.com/reactivemarbles/Extensions.Hosting) | Identity with SQLite — [`CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite`](https://www.nuget.org/packages/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite) | ![Stars](https://img.shields.io/github/stars/reactivemarbles/Extensions.Hosting?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite?style=flat-square&label=downloads)](https://www.nuget.org/packages/CP.Extensions.Hosting.Identity.EntityFrameworkCore.Sqlite) |
 | [**Extensions.Hosting**](https://github.com/reactivemarbles/Extensions.Hosting) | Identity with SQL Server — [`CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer`](https://www.nuget.org/packages/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer) | ![Stars](https://img.shields.io/github/stars/reactivemarbles/Extensions.Hosting?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer?style=flat-square&label=downloads)](https://www.nuget.org/packages/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer) |
 
-</details>
-
 ---
 
 ## 📊 [CrissCross](https://github.com/reactivemarbles/CrissCross) Navigation Framework
 
 *Multi-platform navigation framework for ReactiveUI*
-
-<details>
-<summary><strong>📋 View All Packages</strong></summary>
 
 | Repository | Description | Stats | Downloads |
 |------------|-------------|-------|-----------|
@@ -249,8 +234,6 @@ To learn more about Reactive Extensions read the following online book [**Introd
 | [**CrissCross**](https://github.com/reactivemarbles/CrissCross) | Avalonia UI controls — [`CrissCross.Avalonia.UI`](https://www.nuget.org/packages/CrissCross.Avalonia.UI) | ![Stars](https://img.shields.io/github/stars/reactivemarbles/CrissCross?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CrissCross.Avalonia.UI?style=flat-square&label=downloads)](https://www.nuget.org/packages/CrissCross.Avalonia.UI) |
 | [**CrissCross**](https://github.com/reactivemarbles/CrissCross) | .NET MAUI integration — [`CrissCross.MAUI`](https://www.nuget.org/packages/CrissCross.MAUI) | ![Stars](https://img.shields.io/github/stars/reactivemarbles/CrissCross?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CrissCross.MAUI?style=flat-square&label=downloads)](https://www.nuget.org/packages/CrissCross.MAUI) |
 | [**CrissCross**](https://github.com/reactivemarbles/CrissCross) | Xamarin.Forms integration — [`CrissCross.XamForms`](https://www.nuget.org/packages/CrissCross.XamForms) | ![Stars](https://img.shields.io/github/stars/reactivemarbles/CrissCross?style=flat-square) | [![Downloads](https://img.shields.io/nuget/dt/CrissCross.XamForms?style=flat-square&label=downloads)](https://www.nuget.org/packages/CrissCross.XamForms) |
-
-</details>
 
 ---
 
